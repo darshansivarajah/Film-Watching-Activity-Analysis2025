@@ -1,0 +1,596 @@
+,Unnamed: 0,id,title,language,prod_country,genres,runtime,release_date,vote_count,vote_avg,budget,prod_companies,poster_path
+0,0,414906,The Batman,en,United States of America,"Crime, Mystery, Thriller",177,2022-03-01,11152,7.659,185000000,"6th & Idaho Motion Picture Company, Dylan Clark Productions, DC Films, Warner Bros. Pictures",/74xTEgt7R36Fpooo50r9T25onhq.jpg
+1,1,414906,The Batman,en,United States of America,"Crime, Mystery, Thriller",177,2022-03-01,11152,7.659,185000000,"6th & Idaho Motion Picture Company, Dylan Clark Productions, DC Films, Warner Bros. Pictures",/74xTEgt7R36Fpooo50r9T25onhq.jpg
+2,2,338953,Fantastic Beasts: The Secrets of Dumbledore,en,"United Kingdom, United States of America","Fantasy, Adventure",142,2022-04-06,4794,6.639,200000000,"Warner Bros. Pictures, Heyday Films",/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg
+3,3,453395,Doctor Strange in the Multiverse of Madness,en,United States of America,"Fantasy, Action, Adventure",126,2022-05-04,9713,7.252,290000000,"Marvel Studios, Kevin Feige Productions",/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg
+4,4,744,Top Gun,en,United States of America,"Action, Drama",110,1986-05-16,9046,7.061,15000000,"Paramount Pictures, Don Simpson/Jerry Bruckheimer Films",/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg
+5,5,361743,Top Gun: Maverick,en,United States of America,"Action, Drama",131,2022-05-21,10104,8.167,170000000,"Skydance Media, Don Simpson/Jerry Bruckheimer Films, Paramount Pictures",/62HCnUTziyWcpDaBO2i1DX17ljH.jpg
+6,6,614934,Elvis,en,"Australia, United States of America","Drama, Music, History",159,2022-06-22,3641,7.5,85000000,"Warner Bros. Pictures, Bazmark, The Jackal Group",/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg
+7,7,502033,Sound of Metal,en,United States of America,"Drama, Music",120,2020-11-20,2657,7.711,0,"Flat 7, Ward Four, Caviar",/3178oOJKKPDeQ2legWQvMPpllv.jpg
+8,8,766507,Prey,en,United States of America,"Thriller, Action, Science Fiction",100,2022-08-02,7182,7.679,65000000,"20th Century Studios, Davis Entertainment, Lawrence Gordon Productions",/h58U7d1OZyuWaCWMYvw4mfnv6H3.jpg
+9,9,616037,Thor: Love and Thunder,en,United States of America,"Fantasy, Action, Comedy",119,2022-07-06,8076,6.399,250000000,"Marvel Studios, Kevin Feige Productions",/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg
+10,10,894205,Werewolf by Night,en,United States of America,"Action, Fantasy, Horror",55,2022-09-25,1402,6.975,0,"Marvel Studios, Kevin Feige Productions",/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg
+11,11,15,Citizen Kane,en,United States of America,"Mystery, Drama",119,1941-04-17,5729,7.999,839727,"Mercury Productions, RKO Radio Pictures",/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
+12,12,1044343,Zen - Grogu and Dust Bunnies,ja,"Japan, United States of America","Animation, Fantasy",3,2022-11-11,99,6.1,0,"Lucasfilm Ltd., Studio Ghibli",/4hPuXZWgLuegyBKFhSO67sYjEZ0.jpg
+13,13,7345,There Will Be Blood,en,United States of America,Drama,158,2007-12-26,6932,8.074,25000000,"Paramount Vantage, Miramax, JoAnne Sellar Productions, Ghoulardi Film Company",/fa0RDkAlCec0STeMNAhPaF89q6U.jpg
+14,14,152601,Her,en,United States of America,"Romance, Science Fiction, Drama",126,2013-12-18,14701,7.847,23000000,Annapurna Pictures,/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
+15,15,152601,Her,en,United States of America,"Romance, Science Fiction, Drama",126,2013-12-18,14701,7.847,23000000,Annapurna Pictures,/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg
+16,16,429197,Vice,en,United States of America,"Drama, Comedy",132,2018-12-25,3446,7.017,60000000,"Annapurna Pictures, Gary Sanchez Productions, Plan B Entertainment",/1gCab6rNv1r6V64cwsU4oEr649Y.jpg
+17,17,593643,The Menu,en,United States of America,"Comedy, Horror, Thriller",107,2022-11-17,5509,7.175,35000000,"Hyperobject Industries, Searchlight Pictures, Gary Sanchez Productions, TSG Entertainment",/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
+18,18,19995,Avatar,en,"United States of America, United Kingdom","Action, Adventure, Fantasy, Science Fiction",162,2009-12-15,32516,7.593,237000000,"Dune Entertainment, Lightstorm Entertainment, 20th Century Fox, Ingenious Media",/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg
+19,19,76600,Avatar: The Way of Water,en,United States of America,"Science Fiction, Adventure, Action",192,2022-12-14,12782,7.612,350000000,"20th Century Studios, Lightstorm Entertainment",/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg
+20,20,152532,Dallas Buyers Club,en,United States of America,"Drama, History",117,2013-11-01,8701,7.92,5000000,"Truth Entertainment, Voltage Pictures, CE, Evolution Independent, R² Films, Rainmaker Films, Focus Features",/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg
+21,21,15121,The Sound of Music,en,United States of America,"Drama, Family, Music, Romance",174,1965-03-29,3422,7.725,8200000,"Robert Wise Productions, Argyle Enterprises, 20th Century Fox",/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg
+22,22,329865,Arrival,en,United States of America,"Drama, Science Fiction, Mystery",116,2016-11-10,18471,7.617,47000000,"FilmNation Entertainment, Lava Bear Films, 21 Laps Entertainment",/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg
+23,23,76341,Mad Max: Fury Road,en,"Australia, United States of America","Action, Adventure, Science Fiction",121,2015-05-13,23293,7.626,150000000,"Warner Bros. Pictures, Village Roadshow Pictures, Kennedy Miller Mitchell, RatPac Entertainment",/hA2ple9q4qnwxp3hKVNhroipsir.jpg
+24,24,120,The Lord of the Rings: The Fellowship of the Ring,en,"New Zealand, United States of America","Adventure, Fantasy, Action",179,2001-12-18,26277,8.424,93000000,"New Line Cinema, WingNut Films, The Saul Zaentz Company",/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
+25,25,121,The Lord of the Rings: The Two Towers,en,"New Zealand, United States of America","Adventure, Fantasy, Action",179,2002-12-18,22829,8.409,79000000,"New Line Cinema, WingNut Films, The Saul Zaentz Company",/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
+26,26,122,The Lord of the Rings: The Return of the King,en,"New Zealand, United States of America","Adventure, Fantasy, Action",201,2003-12-17,25370,8.5,94000000,"New Line Cinema, WingNut Films, The Saul Zaentz Company",/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+27,27,68722,The Master,en,United States of America,Drama,137,2012-09-14,3079,7.112,32000000,"Annapurna Pictures, Ghoulardi Film Company, JoAnne Sellar Productions",/jjVGdNt4fYb3T2hjISGZ2qnCuaV.jpg
+28,28,272,Batman Begins,en,"United Kingdom, United States of America","Drama, Crime, Action",140,2005-06-10,21712,7.715,150000000,"Warner Bros. Pictures, DC, Syncopy, Legendary Pictures, Patalex III Productions",/sPX89Td70IDDjVr85jdSBb4rWGr.jpg
+29,29,155,The Dark Knight,en,"United Kingdom, United States of America","Drama, Action, Crime, Thriller",152,2008-07-16,34261,8.522,185000000,"Warner Bros. Pictures, Legendary Pictures, Syncopy, DC",/qJ2tW6WMUDux911r6m7haRef0WH.jpg
+30,30,49026,The Dark Knight Rises,en,"United Kingdom, United States of America","Action, Crime, Drama, Thriller",165,2012-07-17,23453,7.787,250000000,"Syncopy, Legendary Pictures, DC Entertainment, Warner Bros. Pictures",/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
+31,31,1359,American Psycho,en,"Canada, United States of America","Thriller, Drama, Crime",102,2000-04-13,11545,7.407,7000000,"Lionsgate, Pressman Film, Muse Productions, Christian Halsey Solomon Productions",/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+32,32,718930,Bullet Train,en,United States of America,"Action, Comedy, Thriller",126,2022-08-03,6853,7.429,90000000,"87North Productions, Columbia Pictures",/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg
+33,33,157336,Interstellar,en,"United Kingdom, United States of America","Adventure, Drama, Science Fiction",169,2014-11-05,37690,8.46,165000000,"Legendary Pictures, Syncopy, Lynda Obst Productions",/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
+34,34,640146,Ant-Man and the Wasp: Quantumania,en,United States of America,"Action, Adventure, Science Fiction",125,2023-02-15,5397,6.266,200000000,"Marvel Studios, Kevin Feige Productions",/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg
+35,35,64682,The Great Gatsby,en,"United States of America, Australia","Drama, Romance",143,2013-05-09,12563,7.361,105000000,"Warner Bros. Pictures, Village Roadshow Pictures, Bazmark, Red Wagon Entertainment, A+E Global Media",/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg
+36,36,242582,Nightcrawler,en,United States of America,"Crime, Drama, Thriller",118,2014-10-23,11171,7.704,8500000,"Sierra/Affinity, Bold Films",/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg
+37,37,242582,Nightcrawler,en,United States of America,"Crime, Drama, Thriller",118,2014-10-23,11171,7.704,8500000,"Sierra/Affinity, Bold Films",/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg
+38,38,466272,Once Upon a Time... in Hollywood,en,"China, United Kingdom, United States of America","Comedy, Drama, Thriller",162,2019-07-24,14092,7.426,95000000,"Heyday Films, Columbia Pictures, Bona Film Group",/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg
+39,39,677179,Creed III,en,United States of America,"Drama, Action",116,2023-03-01,2692,7.094,75000000,"Metro-Goldwyn-Mayer, Chartoff-Winkler Productions, Proximity Media, Outlier Society",/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg
+40,40,526896,Morbius,en,United States of America,"Action, Science Fiction, Fantasy",105,2022-03-30,4564,5.949,75000000,"Columbia Pictures, Matt Tolmach Productions, Arad Productions",/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg
+41,41,4553,The Machinist,en,Spain,"Thriller, Drama",101,2004-09-24,5808,7.525,5000000,"Castelao Productions, Filmax",/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg
+42,42,1422,The Departed,en,"Hong Kong, United States of America","Drama, Thriller, Crime",151,2006-10-04,15468,8.16,90000000,"Warner Bros. Pictures, Plan B Entertainment, Initial Entertainment Group, Vertigo Entertainment, Media Asia Films",/nT97ifVT2J1yMQmeq20Qblg61T.jpg
+43,43,68718,Django Unchained,en,United States of America,"Drama, Western",165,2012-12-25,26988,8.184,100000000,"The Weinstein Company, Columbia Pictures",/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg
+44,44,817758,TÁR,en,United States of America,"Music, Drama",158,2022-09-23,1386,7.098,35000000,"Focus Features, Standard Film Company, EMJAG Productions",/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg
+45,45,3035,Frankenstein,en,United States of America,"Drama, Horror, Science Fiction",70,1931-11-21,1668,7.468,291000,Universal Pictures,/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg
+46,46,229,Bride of Frankenstein,en,United States of America,"Horror, Science Fiction",75,1935-04-20,1032,7.5,393750,"Universal Pictures, James Whale Productions",/5241zUwe7rC17MNc2QpCBKKdp1N.jpg
+47,47,10973,Creature from the Black Lagoon,en,United States of America,"Adventure, Horror, Science Fiction",79,1954-03-05,807,6.8,0,"Universal Pictures, Universal International Pictures",/euCzA2Exc70MpTDCVYih8tdE7z1.jpg
+48,48,118340,Guardians of the Galaxy,en,United States of America,"Action, Science Fiction, Adventure",121,2014-07-30,28785,7.905,170000000,Marvel Studios,/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
+49,49,283995,Guardians of the Galaxy Vol. 2,en,United States of America,"Science Fiction, Adventure, Action",137,2017-04-19,22199,7.612,200000000,Marvel Studios,/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg
+50,50,447365,Guardians of the Galaxy Vol. 3,en,United States of America,"Science Fiction, Adventure, Action, Comedy",150,2023-05-03,7585,7.933,250000000,"Marvel Studios, Kevin Feige Productions",/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg
+51,51,1892,Return of the Jedi,en,United States of America,"Adventure, Action, Science Fiction",132,1983-05-25,16249,7.905,32350000,Lucasfilm Ltd.,/jQYlydvHm3kUix1f8prMucrplhm.jpg
+52,52,13666,The Wolf Man,en,United States of America,"Horror, Drama",70,1941-12-12,643,7.0,180000,Universal Pictures,/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg
+53,53,82693,Silver Linings Playbook,en,United States of America,"Drama, Comedy, Romance",122,2012-11-16,12243,7.146,21000000,The Weinstein Company,/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg
+54,54,4538,The Darjeeling Limited,en,United States of America,"Adventure, Drama, Comedy",92,2007-09-07,3719,7.156,16000000,"Fox Searchlight Pictures, Collage, American Empirical Pictures",/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg
+55,55,6418,Hotel Chevalier,en,"France, United States of America","Drama, Romance",13,2007-10-26,865,6.906,0,"Fox Searchlight Pictures, American Empirical Pictures, Première Heure",/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg
+56,56,964,The Phantom of the Opera,en,United States of America,"Horror, Music",107,1925-09-22,366,7.1,0,Universal Pictures,/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg
+57,57,236028,Castello Cavalcanti,en,"Italy, United States of America",Comedy,8,2013-11-12,296,7.01,0,"The Directors Bureau, Hi! Production, Prada, American Empirical Pictures",/iGZHMSIxbsvjG1M5PfUYq1doMDK.jpg
+58,58,16869,Inglourious Basterds,en,"Germany, United States of America","Drama, Thriller, War",153,2009-08-02,23118,8.215,70000000,"Universal Pictures, The Weinstein Company, A Band Apart, Zehnte Babelsberg Film, Visiona Romantica",/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg
+59,59,359724,Ford v Ferrari,en,United States of America,"Drama, Action, History",153,2019-11-13,8447,8.006,97600000,"20th Century Fox, TSG Entertainment, Chernin Entertainment, Turnpike Films",/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg
+60,60,391713,Lady Bird,en,United States of America,"Drama, Comedy",94,2017-09-01,8755,7.255,10000000,"IAC Films, Scott Rudin Productions, Entertainment 360",/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg
+61,61,106646,The Wolf of Wall Street,en,United States of America,"Crime, Drama, Comedy",180,2013-12-25,24891,8.028,100000000,"Red Granite Pictures, Appian Way, Sikelia Productions, EMJAG Productions",/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg
+62,62,168672,American Hustle,en,United States of America,"Drama, Crime",138,2013-12-03,7448,6.856,40000000,"Annapurna Pictures, Atlas Entertainment",/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg
+63,63,499932,The Devil All the Time,en,United States of America,"Crime, Drama, Thriller",138,2020-09-11,3477,7.202,0,"Nine Stories Productions, BorderLine Films, Bronx Moving Co.",/sdMZmKVvrnyYbl9Az4L6ehuIrFp.jpg
+64,64,268,Batman,en,United States of America,"Fantasy, Action, Crime",126,1989-06-21,8160,7.2,35000000,"Warner Bros. Pictures, Polygram Pictures, The Guber-Peters Company",/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg
+65,65,364,Batman Returns,en,United States of America,"Action, Fantasy",126,1992-06-19,6763,6.941,80000000,"Warner Bros. Pictures, Polygram Pictures",/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg
+66,66,56149,Bottle Rocket,en,United States of America,"Comedy, Crime",14,1993-01-01,203,6.249,0,,/3NIxuMUmChKL94BXudMMMsBDe8o.jpg
+67,67,438631,Dune,en,United States of America,"Science Fiction, Adventure",155,2021-09-15,13828,7.781,165000000,Legendary Pictures,/d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+68,68,10787,The Invisible Man,en,United States of America,"Horror, Science Fiction",71,1933-11-03,888,7.5,328000,Universal Pictures,/ewfUA5pMEJrmQCdI4TsHmLlIUbf.jpg
+69,69,43353,Robot Monster,en,United States of America,"Science Fiction, Horror",66,1953-06-25,101,4.5,16000,Three Dimension Pictures,/5b4SKRHdSHCm2SZmrP26lnVC44x.jpg
+70,70,76025,Shame,en,"Canada, United Kingdom",Drama,102,2011-10-02,3250,6.931,6500000,"HanWay Films, See-Saw Films, Lipsync Productions, Alliance Films, Film4 Productions, UK Film Council",/aywgzSw9LK4z3DxMPZsNbzWYqQ1.jpg
+71,71,36265,Simon of the Desert,es,Mexico,"Comedy, Drama",45,1965-08-27,227,7.7,0,Sindicato de Trabajadores de la Producción Cinematográfica (STPC),/ysTa1FtL9DvQ90F6VGVoiOdp5NM.jpg
+72,72,88,Dirty Dancing,en,United States of America,"Drama, Music, Romance",100,1987-08-21,6309,7.329,6000000,"Great American Films Limited Partnership, Vestron Pictures",/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg
+73,73,542178,The French Dispatch,en,"United States of America, Germany","Drama, Comedy",108,2021-10-21,2768,7.028,25000000,"Indian Paintbrush, American Empirical Pictures, Studio Babelsberg",/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg
+74,74,37247,The Graduate,en,United States of America,"Drama, Romance, Comedy",106,1967-12-21,3489,7.634,3000000,"AVCO Embassy Pictures, Mike Nichols Productions, Lawrence Turman Productions",/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg
+75,75,62,2001: A Space Odyssey,en,"United Kingdom, United States of America","Science Fiction, Mystery, Adventure",149,1968-04-02,11986,8.065,12000000,"Stanley Kubrick Productions, Metro-Goldwyn-Mayer",/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
+76,76,346698,Barbie,en,"United Kingdom, United States of America","Comedy, Adventure",114,2023-06-18,10207,6.964,145000000,"LuckyChap Entertainment, Heyday Films, NB/GG Pictures, Mattel, Warner Bros. Pictures",/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg
+77,77,872585,Oppenheimer,en,"United Kingdom, United States of America","Drama, History",181,2023-07-19,10602,8.051,100000000,"Syncopy, Universal Pictures, Atlas Entertainment, Breakheart Films, Peters Creek Entertainment",/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
+78,78,103,Taxi Driver,en,United States of America,"Crime, Drama",114,1976-02-09,12813,8.135,1900000,"Italo/Judeo Productions, Bill/Phillips, Columbia Pictures",/ekstpH614fwDX8DUln1a2Opz0N8.jpg
+79,79,389,12 Angry Men,en,United States of America,Drama,97,1957-04-10,9337,8.547,397751,"United Artists, Orion-Nova Productions",/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg
+80,80,401246,The Square,sv,"Denmark, France, Germany, Sweden, United States of America",Drama,151,2017-08-25,1641,6.751,0,"ZDF/Arte, Plattform Produktion, ARTE France Cinéma, Coproduction Office, Essential Filmproduktion, Imperative Entertainment, SVT, Film i Väst, Société Parisienne de Production",/pefcv5VNspSK4Dt8doei5bJmmln.jpg
+81,81,649,Belle de Jour,fr,"France, Italy","Drama, Romance",101,1967-05-24,957,7.321,0,"Paris Films Productions, Five Films, Robert et Raymond Hakim",/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg
+82,82,345,Eyes Wide Shut,en,"United Kingdom, United States of America","Drama, Thriller, Mystery",159,1999-07-16,6547,7.485,65000000,"Warner Bros. Pictures, Stanley Kubrick Productions, Pole Star, Hobby Films",/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg
+83,83,492188,Marriage Story,en,United Kingdom,Drama,137,2019-09-28,7139,7.732,18000000,Heyday Films,/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg
+84,84,374720,Dunkirk,en,"United Kingdom, United States of America","War, Action, Drama",107,2017-07-19,16947,7.4,150000000,"Warner Bros. Pictures, Syncopy",/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg
+85,85,1124,The Prestige,en,"United Kingdom, United States of America","Drama, Mystery, Science Fiction",130,2006-10-17,16721,8.204,40000000,"Warner Bros. Pictures, Touchstone Pictures, Newmarket Films, Syncopy",/2ZOzyhoW08neG27DVySMCcq2emd.jpg
+86,86,489,Good Will Hunting,en,United States of America,Drama,127,1997-12-05,13007,8.159,10000000,"Lawrence Bender Productions, Be Gentlemen Limited Partnership, Miramax",/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
+87,87,700391,65,en,"Canada, United States of America","Action, Adventure, Science Fiction",92,2023-03-02,2618,5.974,45000000,"Raimi Productions, Beck/Woods, Bron Studios, Columbia Pictures, TSG Entertainment",/rzRb63TldOKdKydCvWJM8B6EkPM.jpg
+88,88,869626,Marcel the Shell with Shoes On,en,United States of America,"Animation, Comedy, Drama, Family",90,2022-06-24,631,7.7,6000000,"Cinereach, Chiodo Bros. Productions, You Want I Should, Human Woman, Sunbeam TV & Films",/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg
+89,89,621,Grease,en,"United States of America, United Kingdom","Romance, Comedy",110,1978-06-16,7443,7.375,6000000,"Paramount Pictures, Robert Stigwood Organization, Fine Arts Films",/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg
+90,90,775,A Trip to the Moon,fr,France,"Adventure, Science Fiction",15,1902-06-15,1872,7.9,5985,Star Film,/9o0v5LLFk51nyTBHZSre6OB37n2.jpg
+91,91,5698,The Great Train Robbery,en,United States of America,"Western, Crime, Action, Adventure",12,1903-12-07,650,7.0,150,Edison Studios,/vEYr1sJR1dOFGXwXawpBN6hDRGF.jpg
+92,92,82120,The Sprinkler Sprinkled,fr,France,Comedy,1,1895-06-10,260,6.813,0,"Lumière, Société des Etablissements L. Gaumont",/rSZghvrFWTGqi4UecyG9jimzpEO.jpg
+93,93,774,Workers Leaving the Lumière Factory,fr,France,"History, Documentary",1,1895-03-22,345,6.687,0,Lumière,/cT2sefAXgEoICJUCEM6UfxXfuDM.jpg
+94,94,127111,The Girl and Her Trust,en,United States of America,"Crime, Thriller, Drama, Western",15,1912-03-28,45,6.261,0,American Mutoscope & Biograph,/jDOXhnM5qPUAOpMhtlMKKYjX4j8.jpg
+95,95,49270,A Corner in Wheat,en,United States of America,Drama,14,1909-12-13,106,6.137,0,American Mutoscope & Biograph,/wwwC7ItjZeXnH4bL3FI0p5MWUES.jpg
+96,96,3082,Modern Times,en,United States of America,"Comedy, Drama, Romance",87,1936-02-05,3868,8.281,1500000,Charles Chaplin Productions,/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg
+97,97,406,La Haine,fr,France,Drama,98,1995-05-31,4268,8.085,2600000,"Kasso Productions, La Sept Cinéma, Les Productions Lazennec, Canal+, StudioCanal",/fFVWBMKLwwPh9K0hkrKwPUf8mwn.jpg
+98,98,334541,Manchester by the Sea,en,United States of America,Drama,138,2016-11-17,6077,7.546,9000000,"Pearl Street Films, K Period Media, B Story, The Affleck/Middleton Project, The Media Farm, Big Indie Pictures",/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg
+99,99,3083,Mr. Smith Goes to Washington,en,United States of America,"Comedy, Drama",129,1939-10-19,1109,7.8,1500000,Columbia Pictures,/nDjg1fbNyq15excNDl3acd2IqAk.jpg
+100,100,503919,The Lighthouse,en,"Brazil, United States of America","Drama, Fantasy, Thriller",109,2019-10-18,5195,7.497,11000000,"RT Features, New Regency Pictures, Parts & Labor, Maiden Voyage Pictures",/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
+101,101,747188,Asteroid City,en,"United States of America, Germany","Comedy, Drama",105,2023-06-08,2193,6.456,25000000,"Indian Paintbrush, American Empirical Pictures, Studio Babelsberg",/rAkz95CREc3A1qTnwlSQ0jh8Zw8.jpg
+102,102,981,The Philadelphia Story,en,United States of America,"Comedy, Romance",113,1940-12-05,904,7.628,0,Metro-Goldwyn-Mayer,/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg
+103,103,996,Double Indemnity,en,United States of America,"Crime, Thriller",107,1944-07-06,1896,8.108,927262,Paramount Pictures,/7YNuG4Az4RotLmY3SvFdAFhSW5l.jpg
+104,104,503919,The Lighthouse,en,"Brazil, United States of America","Drama, Fantasy, Thriller",109,2019-10-18,5195,7.497,11000000,"RT Features, New Regency Pictures, Parts & Labor, Maiden Voyage Pictures",/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
+105,105,105,Back to the Future,en,United States of America,"Adventure, Comedy, Science Fiction",116,1985-07-03,20791,8.3,19000000,"Universal Pictures, Amblin Entertainment",/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg
+106,106,411019,I Am Not Your Negro,en,"Belgium, France, United States of America",Documentary,93,2017-02-03,491,7.731,1000000,"Independent Lens, RTBF, ARTE, Shelter Prod, RTS, Velvet Film",/zwd0Zti7BvY1mO0mTPzM0fRrtc6.jpg
+107,107,38810,Dogtooth,el,Greece,Drama,98,2009-10-22,2454,7.066,275000,"Greek Film Centre, Boo Productions, Horsefly Productions",/7nLuUGlH12cegPfR84QX4xIIH9k.jpg
+108,108,654,On the Waterfront,en,United States of America,"Crime, Drama, Romance",108,1954-06-22,1662,7.888,910000,"Columbia Pictures, Horizon Pictures",/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg
+109,109,569094,Spider-Man: Across the Spider-Verse,en,United States of America,"Animation, Action, Adventure, Science Fiction",140,2023-05-31,7811,8.342,100000000,"Columbia Pictures, Sony Pictures Animation, Lord Miller, Pascal Pictures, Arad Productions, Marvel Entertainment",/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg
+110,110,614930,Teenage Mutant Ninja Turtles: Mutant Mayhem,en,"Canada, France, United States of America","Animation, Comedy, Action, Science Fiction",100,2023-07-31,1461,7.211,75000000,"Paramount Pictures, Nickelodeon Movies, Point Grey Pictures, Cinesite Animation, Mikros Animation",/kbnhvFPyXKCKLNhg1pkz6rXQ4Le.jpg
+111,111,923939,The Wonderful Story of Henry Sugar,en,United States of America,"Comedy, Fantasy, Adventure",39,2023-09-20,1179,7.24,0,"American Empirical Pictures, Indian Paintbrush",/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg
+112,112,602,Independence Day,en,United States of America,"Action, Adventure, Science Fiction",145,1996-06-25,9921,6.895,75000000,"20th Century Fox, Centropolis Entertainment",/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg
+113,113,1172676,Poison,en,United States of America,"Comedy, Thriller",17,2023-09-29,499,6.864,0,"American Empirical Pictures, Indian Paintbrush",/IQG49DUJw5DsgcNbW0NfagiDOs.jpg
+114,114,567,Rear Window,en,United States of America,"Thriller, Mystery",112,1954-08-01,6801,8.349,1000000,"Paramount Pictures, Patron Inc.",/ILVF0eJxHMddjxeQhswFtpMtqx.jpg
+115,115,1172674,The Rat Catcher,en,United States of America,Comedy,17,2023-09-28,452,6.587,0,"American Empirical Pictures, Indian Paintbrush",/29WJ7dOHt48AtXK1J1rONEEvIMN.jpg
+116,116,1172675,The Swan,en,United States of America,Drama,17,2023-09-27,462,6.786,0,"American Empirical Pictures, Indian Paintbrush",/fRbx6DPdQBJrhZWyshjJABtAIyu.jpg
+117,117,466420,Killers of the Flower Moon,en,United States of America,"Crime, History, Drama",206,2023-10-18,3722,7.415,200000000,"Apple Studios, Imperative Entertainment, Sikelia Productions, Appian Way",/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg
+118,118,37247,The Graduate,en,United States of America,"Drama, Romance, Comedy",106,1967-12-21,3489,7.634,3000000,"AVCO Embassy Pictures, Mike Nichols Productions, Lawrence Turman Productions",/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg
+119,119,948,Halloween,en,United States of America,"Horror, Thriller",91,1978-10-24,5863,7.564,325000,"Compass International Pictures, Falcon International Productions",/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg
+120,120,62,2001: A Space Odyssey,en,"United Kingdom, United States of America","Science Fiction, Mystery, Adventure",149,1968-04-02,11986,8.065,12000000,"Stanley Kubrick Productions, Metro-Goldwyn-Mayer",/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg
+121,121,694,The Shining,en,"United Kingdom, United States of America","Horror, Thriller",144,1980-05-23,18121,8.21,19000000,"Warner Bros. Pictures, Peregrine, Hawk Films, The Producer Circle Co.",/xazWoLealQwEgqZ89MLZklLZD3k.jpg
+122,122,13353,"It's the Great Pumpkin, Charlie Brown",en,United States of America,"Family, Animation, TV Movie, Comedy",25,1966-10-27,427,7.504,0,"United Feature Syndicate, Bill Melendez Productions, Lee Mendelson Film Productions",/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg
+123,123,925,Do the Right Thing,en,United States of America,Drama,120,1989-06-14,1873,7.767,6500000,"Universal Pictures, 40 Acres and a Mule Filmworks",/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg
+124,124,1115342,Breaking the News,en,United States of America,Documentary,99,2023-06-07,1,10.0,0,"ITVS, Four Pillars Films, Impact Partners",/gYCAn78t9wzAVMuB5bChnvaca5C.jpg
+125,125,1092700,Fatih The Conqueror,fr,France,Comedy,16,2023-08-30,0,0.0,0,Baxter Films,/aU8wsaVg9UgkjIG5O4ET0AHepvs.jpg
+126,126,844026,Frybread Face and Me,en,United States of America,"Drama, Comedy",82,2023-11-24,12,6.0,0,"MACRO, River Road Entertainment, Indion Entertainment Group, REI Co-op Studios, Fit Via Vi, Good Gravy Films, World of HA Productions, World of Wonder",/fp0tp7gblkTI3t7rKYvTOtS1uIx.jpg
+127,127,9390,Jerry Maguire,en,United States of America,"Comedy, Drama, Romance",139,1996-12-13,3468,6.969,50000000,"TriStar Pictures, Gracie Films",/lABvGN7fDk5ifnwZoxij6G96t2w.jpg
+128,128,550,Fight Club,en,"Germany, United States of America","Drama, Thriller",139,1999-10-15,30634,8.437,63000000,"Fox 2000 Pictures, Regency Enterprises, Linson Entertainment, 20th Century Fox, Taurus Film",/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg
+129,129,72976,Lincoln,en,"India, United States of America","History, Drama",149,2012-11-09,3890,6.855,65000000,"DreamWorks Pictures, Reliance Entertainment, Participant, Amblin Entertainment, The Kennedy/Marshall Company, Dune Entertainment",/5KeUqW6DpVtf8G9VMuI2l0XIPCo.jpg
+130,130,254320,The Lobster,en,"France, Greece, Ireland, Netherlands, United Kingdom","Comedy, Drama, Romance",119,2015-10-15,6516,7.04,4000000,"Scarlet Films, Haut et Court, Eurimages, Lemming Film, Element Pictures, Nederlands Fonds voor de Film, Greek Film Centre, Faliro House Productions, Limp, Film4 Productions, Protagonist Pictures",/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg
+131,131,14,American Beauty,en,United States of America,Drama,122,1999-09-15,12510,8.005,15000000,"DreamWorks Pictures, Jinks/Cohen Company",/wby9315QzVKdW9BonAefg8jGTTb.jpg
+132,132,753342,Napoleon,en,United States of America,"History, War, Romance",158,2023-11-22,2824,6.3,165000000,"Apple Studios, Scott Free Productions",/ytFOXyghxLzAM4KZyazDdEkM66q.jpg
+133,133,670292,The Creator,en,"Canada, United States of America","Science Fiction, Action, Adventure",134,2023-09-27,3469,7.039,80000000,"New Regency Pictures, Entertainment One, Regency Enterprises, Bad Dreams Productions",/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg
+134,134,269,Breathless,fr,France,"Drama, Crime",90,1960-03-16,1896,7.522,0,"Les Films Impéria, Les Productions Georges de Beauregard, SNC",/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg
+135,135,10437,The Muppet Christmas Carol,en,"United Kingdom, United States of America","Music, Comedy, Family, Fantasy, Drama",86,1992-12-11,1065,7.4,12000000,"Walt Disney Pictures, Jim Henson Productions, The Jim Henson Company",/ssrV29QSVVJuemBHho0Qx7pFYak.jpg
+136,136,496243,Parasite,ko,South Korea,"Comedy, Thriller, Drama",133,2019-05-30,19387,8.498,11363000,Barunson E&A,/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg
+137,137,872585,Oppenheimer,en,"United Kingdom, United States of America","Drama, History",181,2023-07-19,10602,8.051,100000000,"Syncopy, Universal Pictures, Atlas Entertainment, Breakheart Films, Peters Creek Entertainment",/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
+138,138,545611,Everything Everywhere All at Once,en,United States of America,"Action, Adventure, Science Fiction",140,2022-03-24,7228,7.75,25000000,"IAC Films, AGBO, Ley Line Entertainment, Year of the Rat",/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
+139,139,5915,Into the Wild,en,United States of America,"Adventure, Drama",148,2007-09-21,9769,7.797,15000000,"River Road Entertainment, Paramount Vantage, Linson Entertainment, Square One C.I.H.",/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg
+140,140,104086,The Man Who Sleeps,fr,"France, Tunisia",Drama,77,1974-04-24,128,7.8,0,"Dovidis, SATPEC",/bEX0pQzpmsBM6pRo3meindwNTzE.jpg
+141,141,165,Back to the Future Part II,en,United States of America,"Adventure, Comedy, Science Fiction",108,1989-11-22,13307,7.774,40000000,"Universal Pictures, Amblin Entertainment",/YBawEsTkUZBDajKbd5LiHkmMGf.jpg
+142,142,196,Back to the Future Part III,en,United States of America,"Adventure, Comedy, Science Fiction",119,1990-05-25,11000,7.489,40000000,"Universal Pictures, Amblin Entertainment",/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg
+143,143,621749,Nimic,en,"Germany, United Kingdom, United States of America","Drama, Fantasy, Mystery, Thriller",12,2020-01-30,286,6.605,0,"Rekorder Berlin Filmproduktion, Superprime Films, Merman",/gRzUDFYke2DCVxmddotNatQ5FDl.jpg
+144,144,523607,Maestro,en,United States of America,"Drama, Romance, Music",129,2023-11-22,768,6.3,80000000,"Amblin Entertainment, Fred Berner Films, Sikelia Productions, Lea Pictures",/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg
+145,145,695721,The Hunger Games: The Ballad of Songbirds & Snakes,en,"Germany, United States of America","Drama, Science Fiction, Adventure, Action",157,2023-11-15,3177,6.995,100000000,"Lionsgate, Color Force, about:blank, Studio Babelsberg",/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg
+146,146,792307,Poor Things,en,"Ireland, United Kingdom, United States of America","Science Fiction, Romance, Comedy",141,2023-12-07,4897,7.673,35000000,"Searchlight Pictures, Film4 Productions, TSG Entertainment, Element Pictures, Limp, Fruit Tree",/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
+147,147,850165,The Iron Claw,en,"United Kingdom, United States of America","History, Drama",132,2023-12-21,1065,7.539,15900000,"A24, BBC Film, Access Entertainment, House Productions",/lsdismtCDga4vsKnmliz0h7CaZT.jpg
+148,148,930564,Saltburn,en,"United Kingdom, United States of America","Drama, Comedy, Thriller",131,2023-11-16,2603,6.965,20000000,"LuckyChap Entertainment, MRC, Lie Still",/zGTfMwG112BC66mpaveVxoWPOaB.jpg
+149,149,1585,It's a Wonderful Life,en,United States of America,"Drama, Family, Fantasy",130,1946-12-20,4567,8.272,3180000,Liberty Films,/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg
+150,150,466420,Killers of the Flower Moon,en,United States of America,"Crime, History, Drama",206,2023-10-18,3722,7.415,200000000,"Apple Studios, Imperative Entertainment, Sikelia Productions, Appian Way",/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg
+151,151,615777,Babylon,en,United States of America,"Drama, Comedy",189,2022-12-22,3446,7.375,78000000,"Paramount Pictures, Marc Platt Productions, C2 Motion Picture Group, Organism Pictures, Wild Chickens Productions",/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg
+152,152,330459,Rogue One: A Star Wars Story,en,United States of America,"Action, Adventure, Science Fiction",133,2016-12-14,15811,7.501,200000000,Lucasfilm Ltd.,/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg
+153,153,78,Blade Runner,en,"United States of America, Hong Kong, United Kingdom","Science Fiction, Drama, Thriller",118,1982-06-25,14308,7.941,28000000,"Shaw Brothers, The Ladd Company, Warner Bros. Pictures",/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg
+154,154,335984,Blade Runner 2049,en,"Canada, United Kingdom, United States of America","Science Fiction, Drama",164,2017-10-04,14326,7.585,150000000,"Alcon Entertainment, Columbia Pictures, Scott Free Productions, Bud Yorkin Productions, Torridon Films, 16:14 Entertainment",/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg
+155,155,1081597,Behold,en,"United Kingdom, United States of America",Drama,4,2023-02-06,5,3.0,0,"RSA Films, Samsung Electronics",/iB4va45H31bRg1KvQ7BfdTIPWh8.jpg
+156,156,310131,The Witch,en,"Brazil, Canada, United Kingdom, United States of America","Horror, Fantasy, Drama",92,2016-02-19,7288,6.989,4000000,"Very Special Projects, Parts & Labor, RT Features, Rooks Nest Entertainment, Maiden Voyage Pictures, Pulse Films, Scythia Films, Code Red Productions, Mott Street Pictures",/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg
+157,157,318846,The Big Short,en,United States of America,"Comedy, Drama",131,2015-12-11,9358,7.358,28000000,"Paramount Pictures, Regency Enterprises, Plan B Entertainment",/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg
+158,158,218,The Terminator,en,"United Kingdom, United States of America","Action, Thriller, Science Fiction",108,1984-10-26,13791,7.67,6400000,"Hemdale, Pacific Western",/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg
+159,159,244786,Whiplash,en,United States of America,"Drama, Music",107,2014-10-10,15846,8.377,3300000,"Bold Films, Blumhouse Productions, Right of Way Films",/7fn624j5lj3xTme2SgiLCeuedmO.jpg
+160,160,429200,Good Time,en,United States of America,"Crime, Thriller, Drama",102,2017-08-11,2932,7.214,2000000,"Elara Pictures, Rhea Films",/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg
+161,161,24,Kill Bill: Vol. 1,en,United States of America,"Action, Crime",111,2003-10-10,18073,7.971,30000000,"Miramax, A Band Apart, Super Cool ManChu",/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg
+162,162,1020006,Priscilla,en,"Italy, United States of America","Drama, Romance",113,2023-10-27,923,6.789,20000000,"The Apartment Pictures, American Zoetrope",/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg
+163,163,367412,Whiplash,en,United States of America,"Drama, Music",18,2013-01-18,381,7.793,0,"Whiplash Productions, Right of Way Films, Blumhouse Productions",/dd0MyXqrgIi6s3CqFBMURXjUCEQ.jpg
+164,164,122,The Lord of the Rings: The Return of the King,en,"New Zealand, United States of America","Adventure, Fantasy, Action",201,2003-12-17,25370,8.5,94000000,"New Line Cinema, WingNut Films, The Saul Zaentz Company",/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+165,165,438631,Dune,en,United States of America,"Science Fiction, Adventure",155,2021-09-15,13828,7.781,165000000,Legendary Pictures,/d5NXSklXo0qyIYkgV94XAgMIckC.jpg
+166,166,693134,Dune: Part Two,en,United States of America,"Science Fiction, Adventure",167,2024-02-27,6956,8.136,190000000,Legendary Pictures,/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg
+167,167,840430,The Holdovers,en,United States of America,"Comedy, Drama",133,2023-10-27,2089,7.671,13000000,"Miramax, Gran Via Productions",/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
+168,168,393,Kill Bill: Vol. 2,en,United States of America,"Action, Crime, Thriller",136,2004-04-16,14402,7.9,30000000,"Super Cool ManChu, Miramax, A Band Apart",/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg
+169,169,467244,The Zone of Interest,en,"Poland, United Kingdom, United States of America","Drama, History, War",105,2023-12-15,2251,7.012,15000000,"A24, Film4 Productions, Access Entertainment, JW Films, Extreme Emotions",/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
+170,170,21450,Naked,en,United Kingdom,"Drama, Comedy",131,1993-08-06,607,7.2,0,"Channel Four Films, Thin Man Films, British Screen Productions",/xMYP4uaNeyPmX4FQ2xxWk2eIN6K.jpg
+171,171,398818,Call Me by Your Name,en,"Brazil, France, Italy, United States of America","Romance, Drama",132,2017-07-28,12391,8.112,3500000,"La Cinéfacture, Frenesy Film, M.Y.R.A. Entertainment, RT Features, Water's End Productions, Memento Films International",/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg
+172,172,935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,en,"United Kingdom, United States of America","Comedy, War",95,1964-01-29,5862,8.124,1800000,"Columbia Pictures, Hawk Films",/7SixLzxcqezkZEYU8pcHZgbkmjp.jpg
+173,173,1072790,Anyone But You,en,United States of America,"Romance, Comedy",103,2023-12-21,2695,6.839,25000000,"Olive Bridge Entertainment, Roth-Kirschenbaum Films, SK Global Entertainment, Columbia Pictures",/5qHoazZiaLe7oFBok7XlUhg96f2.jpg
+174,174,9495,The Crow,en,United States of America,"Fantasy, Action, Thriller",102,1994-05-11,4284,7.524,23000000,"Entertainment Media Investment, Jeff Most Productions, Pressman Film, Dimension Films",/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg
+175,175,43629,Doodlebug,en,United Kingdom,Horror,3,1997-01-01,461,6.507,0,,/cXDFFv6yZNW3vUHOKKUPJNnL0So.jpg
+176,176,1106299,The Spider Within: A Spider-Verse Story,en,"Canada, United States of America","Animation, Drama",8,2023-06-12,90,7.133,0,"Sony Pictures Animation, Sony Pictures Imageworks, Sony Pictures Imageworks",/2xlk27ZW2WI6Q77SLEmwhUpz190.jpg
+177,177,1366,Rocky,en,United States of America,Drama,120,1976-11-20,8202,7.79,1000000,Winkler Films,/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg
+178,178,1359,American Psycho,en,"Canada, United States of America","Thriller, Drama, Crime",102,2000-04-13,11545,7.407,7000000,"Lionsgate, Pressman Film, Muse Productions, Christian Halsey Solomon Productions",/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+179,179,841,Dune,en,United States of America,"Action, Science Fiction, Adventure",137,1984-12-14,3226,6.173,40000000,The De Laurentiis Company,/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg
+180,180,360627,Ransom for a Dead Man,en,United States of America,"Drama, Mystery, TV Movie, Crime",95,1972-10-09,48,7.2,0,Universal Television,/wxiOUKGqkfH9CsTOU2FfEa1qSkQ.jpg
+181,181,2000,"Aguirre, the Wrath of God",de,Germany,"History, Adventure, Drama",95,1972-12-29,1160,7.471,370000,"Werner Herzog Filmproduktion, HR",/qMk93yMo82svW27FEjudgueBMUL.jpg
+182,182,560016,Monkey Man,en,"Canada, Singapore, United States of America","Action, Thriller",121,2024-04-03,1187,6.888,10000000,"Thunder Road, Bron Studios, Monkeypaw Productions, Minor Realm, Creative Wealth Media Finance, S'YA Concept",/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg
+183,183,397805,Brothers,en,United States of America,Drama,11,2015-09-12,38,6.7,18000,"Parts & Labor, Code Red Productions",/odWeSuYReXXGTKDexHLoa1ghAzD.jpg
+184,184,181886,Enemy,en,"Canada, France, Spain","Thriller, Mystery",91,2014-03-14,6107,6.857,0,"Rhombus Media, Roxbury Pictures, Mecanismo Films, micro_scope, Entertainment One, Pathé",/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg
+185,185,383802,The Tell-Tale Heart,en,United States of America,"Horror, Crime",22,2009-07-29,20,6.8,0,Palehorse Productions,/yLs44Sx08WAHhgvnh0XIg7s5e9F.jpg
+186,186,37165,The Truman Show,en,United States of America,"Comedy, Drama",103,1998-06-04,19215,8.149,60000000,"Paramount Pictures, Scott Rudin Productions",/vuza0WqY239yBXOadKlGwJsZJFE.jpg
+187,187,2433,The Young Girls of Rochefort,fr,France,"Romance, Comedy, Drama",126,1967-03-08,629,7.7,0,"Parc Film, Madeleine Films",/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg
+188,188,15849,The Mummy,en,United States of America,"Horror, Fantasy",73,1932-12-22,648,6.7,196000,Universal Pictures,/vSKpbZVvzqQcw6htiyEinbCY9vq.jpg
+189,189,207,Dead Poets Society,en,United States of America,Drama,129,1989-06-02,11836,8.301,16400000,"A Steven Haft Production, Witt/Thomas Productions, Silver Screen Partners IV, Touchstone Pictures",/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg
+190,190,980804,LEGO Star Wars Summer Vacation,en,"Canada, Denmark, United States of America","Animation, Family, Science Fiction, Comedy, TV Movie",45,2022-08-05,94,6.293,0,"Lucasfilm Ltd., Atomic Cartoons, LEGO",/vUL5UXsL5DaYgGVd2GSeqIvMKfK.jpg
+191,191,81234,LEGO Star Wars: Revenge of The Brick,en,United States of America,"Animation, Family, Science Fiction, Comedy, Action",5,2005-08-05,41,6.0,0,"Treehouse Animation, Lucasfilm Ltd., LEGO",/wi5IvbMRGD8fko6vv58NrogdJdd.jpg
+192,192,81233,LEGO Star Wars: The Quest for R2-D2,en,,"Family, Animation, Science Fiction, Comedy",5,2009-08-28,42,5.6,0,"M2Film, LEGO, Lucasfilm Ltd.",/pfI6dMB5aplRYe7vSniDznnFWUx.jpg
+193,193,79158,LEGO Star Wars: Bombad Bounty,en,Denmark,"Family, Animation, Science Fiction, Comedy",5,2010-11-27,39,6.154,0,"M2Film, LEGO, Lucasfilm Ltd.",/r088BCbLiSxccTHXxIZBZ5olRvM.jpg
+194,194,732670,LEGO Star Wars Holiday Special,en,"Canada, Denmark, United States of America","Animation, Family, Science Fiction, Adventure, Comedy, TV Movie",44,2020-11-17,349,6.577,0,"Lucasfilm Ltd., LEGO, Atomic Cartoons",/zyzJSI7UZZzz5Toj10rYGF5689z.jpg
+195,195,527634,Hansel and Gretel,en,United States of America,"Fantasy, Horror",27,2007-03-12,18,5.361,0,Palehorse Productions,
+196,196,252,Willy Wonka & the Chocolate Factory,en,United States of America,"Family, Fantasy, Comedy",99,1971-06-29,3750,7.478,3000000,Wolper Pictures,/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg
+197,197,857702,LEGO Star Wars Terrifying Tales,en,"Canada, Denmark, United States of America","Animation, Family, Science Fiction, Comedy, TV Movie",45,2021-10-01,261,6.86,0,"Lucasfilm Ltd., Atomic Cartoons, LEGO",/fYiaBZDjyXjvlY6EDZMAxIhBO1I.jpg
+198,198,475946,Blade Runner: Black Out 2022,en,"United States of America, Japan","Action, Animation, Science Fiction",16,2017-09-26,419,7.121,0,"Alcon Entertainment, CygamesPictures",/zzRjnUOVXyjp2WudgT7KxJLYh9D.jpg
+199,199,473072,2036: Nexus Dawn,en,"United Kingdom, United States of America","Science Fiction, Thriller",7,2017-08-30,392,6.862,0,"Alcon Entertainment, RSA Films, 3AM, Scott Free Productions",/qPci3811kFmPPEevGrnjeKWokD4.jpg
+200,200,475759,2048: Nowhere to Run,en,"United Kingdom, United States of America","Science Fiction, Thriller, Action",6,2017-09-14,349,6.797,0,"Alcon Entertainment, Scott Free Productions",/l8JKbUCIe4y1LujxMMjbxG6ueH.jpg
+201,201,140607,Star Wars: The Force Awakens,en,United States of America,"Adventure, Action, Science Fiction",136,2015-12-15,19903,7.257,245000000,"Lucasfilm Ltd., Bad Robot",/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg
+202,202,3035,Frankenstein,en,United States of America,"Drama, Horror, Science Fiction",70,1931-11-21,1668,7.468,291000,Universal Pictures,/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg
+203,203,181808,Star Wars: The Last Jedi,en,United States of America,"Adventure, Action, Science Fiction",152,2017-12-13,15752,6.771,200000000,Lucasfilm Ltd.,/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg
+204,204,181812,Star Wars: The Rise of Skywalker,en,United States of America,"Adventure, Action, Science Fiction",142,2019-12-18,10314,6.3,416000000,"Lucasfilm Ltd., Bad Robot",/db32LaOibwEliAmSL2jjDF6oDdj.jpg
+205,205,840567,All of This Unreal Time,en,United Kingdom,Drama,24,2021-07-01,6,7.7,0,Manchester International Film,/wY6101kFOytErZVG77dBndQEHvT.jpg
+206,206,799583,The Ministry of Ungentlemanly Warfare,en,"United Kingdom, United States of America","Action, Comedy, War",120,2024-04-18,1565,7.067,60000000,"Jerry Bruckheimer Films, Black Bear Pictures, Toff Guy Films",/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg
+207,207,28501,The Pit and the Pendulum,en,United States of America,"Horror, Mystery, Drama",80,1961-08-23,350,6.8,200000,Alta Vista Productions,/6hOTmFaePluI5eicY4XTv6hg0T0.jpg
+208,208,693134,Dune: Part Two,en,United States of America,"Science Fiction, Adventure",167,2024-02-27,6956,8.136,190000000,Legendary Pictures,/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg
+209,209,639933,The Northman,en,United States of America,"Action, Adventure, Fantasy",137,2022-04-07,4654,7.038,70000000,"Focus Features, New Regency Pictures, Regency Enterprises, Square Peg",/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg
+210,210,11,Star Wars,en,United States of America,"Adventure, Action, Science Fiction",121,1977-05-25,21404,8.205,11000000,"Lucasfilm Ltd., 20th Century Fox",/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
+211,211,9486,Johnny English,en,United Kingdom,"Adventure, Action, Comedy",89,2003-03-14,3588,6.282,40000000,Working Title Films,/mmzW88tnkB2MnOV3Un2F9IUxSnZ.jpg
+212,212,3034,Young Frankenstein,en,United States of America,Comedy,106,1974-12-15,3238,7.868,2800000,"Crossbow Productions, Gruskoff/Venture Films, Jouer Limited, 20th Century Fox",/c6335WJCZO8NK5wehHk5sA9Cypv.jpg
+213,213,9659,Mad Max,en,Australia,"Adventure, Action, Thriller, Science Fiction",91,1979-04-12,4676,6.679,350000,Kennedy Miller Productions,/5LrI4GiCSrChgkdskVZiwv643Kg.jpg
+214,214,8810,Mad Max 2,en,Australia,"Adventure, Action, Thriller, Science Fiction",96,1981-12-24,3939,7.4,2000000,Kennedy Miller Productions,/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg
+215,215,9355,Mad Max Beyond Thunderdome,en,Australia,"Action, Adventure, Science Fiction",107,1985-06-29,3072,6.213,10000000,Kennedy Miller Productions,/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg
+216,216,289,Casablanca,en,United States of America,"Drama, Romance",103,1943-01-15,5695,8.156,878000,Warner Bros. Pictures,/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg
+217,217,666277,Past Lives,en,"South Korea, United States of America","Drama, Romance",106,2023-06-02,1993,7.7,12000000,"A24, Killer Films, 2AM, CJ ENM",/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg
+218,218,1891,The Empire Strikes Back,en,United States of America,"Adventure, Action, Science Fiction",124,1980-05-20,17608,8.396,18000000,Lucasfilm Ltd.,/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg
+219,219,76341,Mad Max: Fury Road,en,"Australia, United States of America","Action, Adventure, Science Fiction",121,2015-05-13,23293,7.626,150000000,"Warner Bros. Pictures, Village Roadshow Pictures, Kennedy Miller Mitchell, RatPac Entertainment",/hA2ple9q4qnwxp3hKVNhroipsir.jpg
+220,220,786892,Furiosa: A Mad Max Saga,en,"Australia, United States of America","Action, Science Fiction, Adventure",149,2024-05-22,4343,7.465,168000000,"Warner Bros. Pictures, Kennedy Miller Mitchell, Domain Entertainment",/iADOJ8Zymht2JPMoy3R7xceZprc.jpg
+221,221,70608,LEGO Star Wars: The Padawan Menace,en,,"Family, Animation, Science Fiction",22,2011-07-22,150,6.5,0,"Lucasfilm Ltd., LEGO",/bCDa9memHnETeRrJWXzImTZdMal.jpg
+222,222,814,An American Werewolf in London,en,"United Kingdom, United States of America","Comedy, Horror",97,1981-08-21,2540,7.407,10000000,"Lyncanthrope Films, Polygram Pictures",/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg
+223,223,136406,Lego Star Wars: The Empire Strikes Out,en,United States of America,"Family, Animation, Science Fiction",22,2012-09-24,103,6.354,0,"Lucasfilm Ltd., LEGO",/doeFDzZ0Ywp8YUoRaEhVE5UBqka.jpg
+224,224,1892,Return of the Jedi,en,United States of America,"Adventure, Action, Science Fiction",132,1983-05-25,16249,7.905,32350000,Lucasfilm Ltd.,/jQYlydvHm3kUix1f8prMucrplhm.jpg
+225,225,497828,Triangle of Sadness,en,"Denmark, France, Germany, Greece, Mexico, Sweden, Switzerland, Turkey, United Kingdom, United States of America","Comedy, Drama",147,2022-09-18,2517,7.053,15600000,"30WEST, BBC Film, Bord Cadre Films, Coproduction Office, Film i Väst, Heretic, Imperative Entertainment, Sovereign Films, Plattform Produktion, SVT, BFI, Piano, ARTE France Cinéma, ZDF/Arte, Essential Filmproduktion, TRT Sinema",/k9eLozCgCed5FGTSdHu0bBElAV8.jpg
+226,226,539,Psycho,en,United States of America,"Horror, Thriller, Mystery",109,1960-06-22,10472,8.421,806947,Shamley Productions,/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg
+227,227,854,The Mask,en,United States of America,"Romance, Comedy, Crime, Fantasy",101,1994-07-29,10697,6.968,23000000,"Dark Horse Entertainment, New Line Cinema",/yd3wjLLeQHJ3oRDy4wwiNNFVyLW.jpg
+228,228,940721,Godzilla Minus One,ja,Japan,"Science Fiction, Horror, Action",124,2023-11-03,2766,7.586,15000000,"TOHO, TOHO Studios, Robot Communications",/2E2WTX0TJEflAged6kzErwqX1kt.jpg
+229,229,32093,The Mark of Zorro,en,United States of America,"Adventure, Romance, Action",94,1940-11-08,215,7.1,1000000,20th Century Fox,/bJDonmAPnDV8jDv9jLlsejAdAoL.jpg
+230,230,1171861,The Last Repair Shop,en,United States of America,"Documentary, Music",40,2024-02-16,39,7.5,0,"Breakwater Studios, LA Times Studios",/9BWy7bgE4nTXf7hhooFNqVBJXgU.jpg
+231,231,28,Apocalypse Now,en,United States of America,"Drama, War",147,1979-05-19,8597,8.271,31500000,American Zoetrope,/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg
+232,232,137106,The Lego Movie,en,"Australia, Denmark, United States of America","Animation, Family, Adventure, Comedy, Fantasy",100,2014-02-06,8103,7.42,60000000,"Village Roadshow Pictures, RatPac Entertainment, LEGO, Lin Pictures, Vertigo Entertainment, Warner Animation Group, Animal Logic",/lbctonEnewCYZ4FYoTZhs8cidAl.jpg
+233,233,280217,The Lego Movie 2: The Second Part,en,"Canada, Denmark, United States of America","Action, Adventure, Animation, Comedy, Family",107,2019-02-06,2304,6.666,99000000,"Vertigo Entertainment, Warner Animation Group, Lord Miller, Rideback, LEGO, Animal Logic",/QTESAsBVZwjtGJNDP7utiGV37z.jpg
+234,234,162,Edward Scissorhands,en,United States of America,"Fantasy, Drama, Romance",105,1990-12-07,13278,7.7,20000000,"20th Century Fox, Tim Burton Productions",/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg
+235,235,4347,Atonement,en,"France, United Kingdom, United States of America","Drama, Romance",123,2007-02-27,4445,7.642,30000000,"Universal Pictures, StudioCanal, Relativity Media, Working Title Films",/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg
+236,236,27511,He Who Gets Slapped,en,United States of America,"Drama, Thriller, Romance",72,1924-12-22,96,7.604,172000,Metro-Goldwyn-Mayer,/gQzCd1kG5Z0nbOEhKZ7D3H4QUjp.jpg
+237,237,901,City Lights,en,United States of America,"Comedy, Drama, Romance",87,1931-02-06,2307,8.265,1500000,Charles Chaplin Productions,/ugmakEL5y294I5bXgiBqApuZpwc.jpg
+238,238,263115,Logan,en,United States of America,"Action, Drama, Science Fiction",137,2017-02-28,19776,7.82,97000000,"Hutch Parker Entertainment, The Donners' Company, Genre Films, 20th Century Fox, Marvel Entertainment, TSG Entertainment",/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg
+239,239,43939,I'm Still Here,en,United States of America,"Music, Comedy, Drama",107,2010-09-10,381,6.0,0,They Are Going To Kill Us Productions,/h8c53OPv2miF6vzpVXQZX8jw1pJ.jpg
+240,240,802,Lolita,en,"United Kingdom, United States of America","Drama, Comedy, Romance",154,1962-06-13,2141,7.319,2000000,"Seven Arts Productions, Harris Kubrick Pictures, A.A. Productions, Ltd., Anya Pictures, Transworld Pictures",/8Puqbeh0D95DpXFWep1rmH78btu.jpg
+241,241,27517,The Man Who Laughs,en,United States of America,"Drama, Romance, Horror",110,1928-04-27,212,7.342,0,Universal Pictures,/iQXBMr4NzQst4X0rDU6MII6ZUOM.jpg
+242,242,144,Wings of Desire,de,"Germany, France","Drama, Fantasy, Romance",128,1987-09-23,1405,7.8,2500000,"Road Movies, Argos films, WDR, Wim Wenders Stiftung",/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg
+243,243,578,Jaws,en,United States of America,"Horror, Thriller, Adventure",124,1975-06-20,10926,7.672,7000000,"The Zanuck/Brown Company, Universal Pictures",/lxM6kqilAdpdhqUl2biYp5frUxE.jpg
+244,244,64690,Drive,en,United States of America,"Drama, Thriller, Crime",100,2011-09-15,13017,7.584,15000000,"FilmDistrict, Bold Films, Marc Platt Productions, OddLot Entertainment, Motel Movies, Newbridge Film Capital",/602vevIURmpDfzbnv5Ubi6wIkQm.jpg
+245,245,426,Vertigo,en,United States of America,"Mystery, Romance, Thriller",128,1958-05-28,6002,8.2,2479000,"Paramount Pictures, Alfred J. Hitchcock Productions",/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg
+246,246,4960,"Synecdoche, New York",en,United States of America,Drama,124,2008-10-24,1484,7.557,20000000,"Likely Story, Projective Testing Service, Sidney Kimmel Entertainment, Russia",/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg
+247,247,28978,The Circus,en,United States of America,"Comedy, Romance, Drama",72,1928-01-06,836,7.934,9000000,Charles Chaplin Productions,/hWw9HfQmd4Rn1Et4vgZQsEf5tEZ.jpg
+248,248,12092,Alice in Wonderland,en,United States of America,"Animation, Family, Fantasy, Adventure",75,1951-07-28,6040,7.187,3000000,Walt Disney Productions,/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg
+249,249,399057,The Killing of a Sacred Deer,en,"United Kingdom, United States of America, Ireland","Drama, Thriller, Mystery",121,2017-10-20,4207,7.0,3000000,"Element Pictures, TPC, Film4 Productions, New Sparta Films, Limp, HanWay Films, Fís Éireann/Screen Ireland",/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg
+250,250,47653,The Immigrant,en,United States of America,"Comedy, Romance",24,1917-06-17,298,7.279,0,Lone Star Corporation,/f4xP9DvXKqpYKo0Fth5tKyZY8ej.jpg
+251,251,804095,The Fabelmans,en,United States of America,Drama,151,2022-11-11,2535,7.583,40000000,"Amblin Entertainment, Reliance Entertainment",/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg
+252,252,26317,Man with a Movie Camera,ru,Soviet Union,Documentary,68,1929-05-12,760,7.839,0,VUFKU,/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg
+253,253,5548,RoboCop,en,United States of America,"Action, Thriller, Science Fiction",102,1987-07-17,5404,7.347,13000000,"Orion Pictures, Jon Davison Productions",/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg
+254,254,746036,The Fall Guy,en,"United States of America, Australia","Action, Comedy, Romance",127,2024-04-24,3135,7.002,125000000,"87North Productions, Entertainment 360, Universal Pictures",/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg
+255,255,797,Persona,sv,Sweden,Drama,84,1966-10-18,2289,8.149,0,SF Studios,/v2KsLNChpT6vLf0YFhkJmAtGkNq.jpg
+256,256,53423,Shoulder Arms,en,United States of America,"Comedy, War",36,1918-10-20,182,6.8,0,Charles Chaplin Productions,/lxn5foteeZbDGIEfSahW4UMxnTC.jpg
+257,257,19,Metropolis,de,Germany,"Drama, Science Fiction",153,1927-02-06,2921,8.098,5300000,UFA,/vZIJxGnjcswPCAa52jhbl01FQkV.jpg
+258,258,575776,Saint Maud,en,United Kingdom,"Horror, Mystery, Thriller",85,2020-10-09,798,6.591,0,"Film4 Productions, BFI, Escape Plan",/xueX3Nc85NeoGE30LfnU1zP0VLd.jpg
+259,259,948549,Love Lies Bleeding,en,"United Kingdom, United States of America","Crime, Romance, Thriller, Drama, Mystery",104,2024-03-07,833,6.6,10000000,"Film4 Productions, Escape Plan, A24, Lobo Films",/xImj8RLe39YK0lyVu9kXv7ApN8p.jpg
+260,260,1226578,Longlegs,en,"Canada, United States of America","Crime, Horror, Thriller",101,2024-07-10,2201,6.6,10000000,"C2 Motion Picture Group, Saturn Films, Oddfellows Entertainment, Traffic., Range Media Partners",/1EwNyiiNFd863H4e8nWEzutnZD7.jpg
+261,261,466272,Once Upon a Time... in Hollywood,en,"China, United Kingdom, United States of America","Comedy, Drama, Thriller",162,2019-07-24,14092,7.426,95000000,"Heyday Films, Columbia Pictures, Bona Film Group",/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg
+262,262,103,Taxi Driver,en,United States of America,"Crime, Drama",114,1976-02-09,12813,8.135,1900000,"Italo/Judeo Productions, Bill/Phillips, Columbia Pictures",/ekstpH614fwDX8DUln1a2Opz0N8.jpg
+263,263,920,Cars,en,United States of America,"Animation, Adventure, Comedy, Family",117,2006-06-08,14525,7.007,120000000,"Pixar, Walt Disney Pictures",/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg
+264,264,9475,Scent of a Woman,en,United States of America,Drama,156,1992-12-23,3648,7.784,31000000,"Universal Pictures, City Light Films",/4adI7IaveWb7EidYXfLb3MK3CgO.jpg
+265,265,491472,At Eternity's Gate,en,"France, Switzerland, United Kingdom, United States of America",Drama,111,2018-11-15,1493,6.955,0,"Iconoclast, Rahway Road Productions, Riverstone Pictures, SPK Pictures, RocketScience",/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg
+266,266,1130111,"nothing, except everything.",en,United States of America,"Comedy, Drama, Romance",13,2023-04-21,16,4.813,0,Atrix Media,/ovychDvigHmO4wg74jCfSP7PVKJ.jpg
+267,267,643,Battleship Potemkin,ru,Soviet Union,"Drama, History, War",75,1925-12-24,1219,7.6,0,"Mosfilm, Goskino USSR",/hZmsRLsCnE9Zshf1YJONUpCOhds.jpg
+268,268,24128,Stop Making Sense,en,United States of America,"Documentary, Music",88,1984-11-16,319,8.329,1200000,"Talking Heads Films, Arnold Stiefel Company",/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg
+269,269,234,The Cabinet of Dr. Caligari,de,Germany,"Drama, Horror, Thriller, Crime",77,1920-02-27,1672,7.9,18000,Decla Film Gesellschaft Holz & Co.,/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg
+270,270,114,Pretty Woman,en,United States of America,"Romance, Comedy",120,1990-03-23,8598,7.462,14000000,"Touchstone Pictures, Silver Screen Partners IV, Regency Enterprises, Arnon Milchan Productions",/hVHUfT801LQATGd26VPzhorIYza.jpg
+271,271,653,Nosferatu,de,Germany,"Horror, Fantasy",95,1922-02-16,2295,7.673,0,Prana-Film,/zv7J85D8CC9qYagAEhPM63CIG6j.jpg
+272,272,422,8½,it,"Italy, France",Drama,139,1963-02-14,2404,8.134,0,"Cineriz, Francinex",/ja0uRnwFwnVFJlNMYL10orpjWtq.jpg
+273,273,30020,Taste of Cherry,fa,"Iran, France",Drama,99,1997-09-28,642,7.679,0,"Kanoon, Kiarostami Foundation, CiBy 2000",/u6GYH4HyR0BVwpqFuTOc2g4KB1L.jpg
+274,274,780,The Passion of Joan of Arc,fr,France,"Drama, History",82,1928-04-21,1020,7.993,0,Société générale des films,/plzI7N52uHhERUZLNSVbGGakFwR.jpg
+275,275,36208,A Dog's Life,en,United States of America,Comedy,34,1918-04-14,338,7.3,0,First National Pictures,/41vqtliesQrsJQ9iTJh5nFYQgBg.jpg
+276,276,10728,Faust,de,Germany,"Fantasy, Drama, Horror",116,1926-10-13,372,7.903,0,"UFA, Metro-Goldwyn-Mayer",/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg
+277,277,121986,Frances Ha,en,"Brazil, United States of America","Comedy, Drama",86,2013-05-17,1716,7.3,0,"Scott Rudin Productions, RT Features, Pine District Pictures",/jrq1NoKvsxWCcffVOjegiYwloFN.jpg
+278,278,631,Sunrise: A Song of Two Humans,en,United States of America,"Drama, Romance",94,1927-11-04,846,7.835,0,Fox Film Corporation,/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg
+279,279,884,Crash,en,"Canada, United Kingdom","Thriller, Drama",100,1996-07-17,1232,6.44,9000000,"Alliance Films, Recorded Picture Company",/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg
+280,280,16306,Fantastic Planet,fr,"Czechoslovakia, France","Animation, Science Fiction",72,1973-12-01,1017,7.645,0,"Argos films, Les Films Armorial, ORTF, Krátký film Praha – Studio Jiřího Trnky, INA",/prq0j1S0K07UjwLZLF6oMGflRUI.jpg
+281,281,280,Terminator 2: Judgment Day,en,"France, United States of America","Action, Thriller, Science Fiction",137,1991-07-03,13503,8.13,102000000,"Carolco Pictures, Pacific Western, Lightstorm Entertainment, Le Studio Canal+",/5M0j0B18abtBI5gi2RhfjjurTqb.jpg
+282,282,290250,The Nice Guys,en,United States of America,"Comedy, Crime, Action",116,2016-05-15,8220,7.126,50000000,"Silver Pictures, Waypoint Entertainment",/clq4So9spa9cXk3MZy2iMdqkxP2.jpg
+283,283,976893,Perfect Days,ja,"Germany, Japan",Drama,124,2023-11-10,1562,7.761,14000000,"Master Mind, Wenders Images",/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg
+284,284,11506,The Silence,sv,Sweden,"Drama, Romance",95,1963-09-23,376,7.5,0,SF Studios,/2KkHAsBVZVoMO1Zauvm5rFSxp09.jpg
+285,285,24276,Matewan,en,United States of America,"Drama, History",132,1987-08-28,120,7.354,4000000,"Cinecom Entertainment Group, Film Gallery, Goldcrest, Red Dog Films, Winwood Productions",/cESTph19WGOoOPjpqjyl7mPdL3T.jpg
+286,286,27412,Hollywood Chainsaw Hookers,en,United States of America,"Comedy, Horror",75,1988-03-01,112,5.665,23000,"American Independent Productions, Camp Video, Savage Cinema",/2IRG18T8Jt6H8oa0dNM01Ikxc5e.jpg
+287,287,88,Dirty Dancing,en,United States of America,"Drama, Music, Romance",100,1987-08-21,6309,7.329,6000000,"Great American Films Limited Partnership, Vestron Pictures",/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg
+288,288,976,Sweet Smell of Success,en,United States of America,Drama,97,1957-07-04,535,7.607,3400000,"Hecht-Hill-Lancaster Productions, United Artists, Norma Productions, Curtleigh Productions",/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg
+289,289,5717,Man Push Cart,en,United States of America,Drama,87,2006-05-10,45,7.0,0,"Noruz Films, Flip Side Film",/hGhGa4O6ztK5r3SeFlEmYZE7EUZ.jpg
+290,290,43629,Doodlebug,en,United Kingdom,Horror,3,1997-01-01,461,6.507,0,,/cXDFFv6yZNW3vUHOKKUPJNnL0So.jpg
+291,291,88276,Zorns Lemma,en,United States of America,Documentary,60,1970-04-01,31,6.274,0,Word Pictures,/8z0EwuhLyyTuZwN2bXTsdoyWbZI.jpg
+292,292,4011,Beetlejuice,en,United States of America,"Fantasy, Comedy",92,1988-03-30,8022,7.373,15000000,"Geffen Pictures, Warner Bros. Pictures",/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg
+293,293,399055,The Shape of Water,en,United States of America,"Drama, Fantasy, Romance",123,2017-12-01,12426,7.242,19500000,"Double Dare You, Fox Searchlight Pictures, Bull Productions, TSG Entertainment",/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg
+294,294,238,The Godfather,en,United States of America,"Drama, Crime",175,1972-03-14,21748,8.686,6000000,"Paramount Pictures, Alfran Productions",/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
+295,295,41791,Mississippi Masala,en,"United Kingdom, United States of America","Drama, Romance",118,1991-09-18,89,6.4,8000000,"Cinecom Pictures, Mirabai Films, Film Four International",/b2Gks4Stt98FRI5isaL6Wu1luhh.jpg
+296,296,138,Dracula,en,United States of America,Horror,74,1931-02-12,1281,7.156,355000,Universal Pictures,/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg
+297,297,150540,Inside Out,en,United States of America,"Animation, Family, Adventure, Drama, Comedy",95,2015-06-17,22716,7.911,175000000,"Pixar, Walt Disney Pictures",/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg
+298,298,1022789,Inside Out 2,en,United States of America,"Animation, Adventure, Comedy, Family",97,2024-06-11,6076,7.551,200000000,Pixar,/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg
+299,299,585,"Monsters, Inc.",en,United States of America,"Animation, Comedy, Family",92,2001-11-01,19047,7.846,115000000,Pixar,/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg
+300,300,13931,Mike's New Car,en,United States of America,"Animation, Comedy, Family, Fantasy",3,2002-05-24,718,6.9,0,"Walt Disney Pictures, Pixar",/npZIG1O3qqQ1TukLXPnx774zBfX.jpg
+301,301,44896,Rango,en,"United Kingdom, United States of America","Animation, Comedy, Family, Western, Adventure",112,2011-03-02,6782,6.88,135000000,"Paramount Pictures, Blind Wink, Nickelodeon Movies, GK Films, Industrial Light & Magic",/A5MP1guV8pbruieG0tnpPIbaJtt.jpg
+302,302,3309,Mildred Pierce,en,United States of America,"Crime, Drama",111,1945-10-20,414,7.623,1453000,Warner Bros. Pictures,/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg
+303,303,146827,Lemon,en,United States of America,Documentary,7,1969-11-30,26,4.8,0,,/syxhcP0ypDLKNKM1OyoB4GM3g8c.jpg
+304,304,27040,Meshes of the Afternoon,en,United States of America,"Mystery, Fantasy",14,1943-01-01,407,7.636,275,,/pRLqidsUdxYM5pXLJ9mqm2n9U9K.jpg
+305,305,262,The King of Comedy,en,United States of America,"Drama, Comedy",109,1982-12-18,2432,7.781,19000000,"Embassy International Pictures, 20th Century Fox",/3BM78deUfeZfShqPTblZuamgC8a.jpg
+306,306,917496,Beetlejuice Beetlejuice,en,United States of America,"Horror, Comedy, Fantasy",105,2024-09-04,2694,6.994,99000000,"Warner Bros. Pictures, Geffen Pictures, Plan B Entertainment, Tim Burton Productions, Tommy Harper Productions, Domain Entertainment",/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg
+307,307,475557,Joker,en,"Canada, United States of America","Crime, Thriller, Drama",122,2019-10-01,26703,8.133,55000000,"Warner Bros. Pictures, Joint Effort, Village Roadshow Pictures, Bron Studios, DC Films",/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
+308,308,37557,Shanghai Triad,zh,"China, France","Drama, Crime",108,1995-09-14,98,6.8,2300000,"Alpha Films, La Sept Cinéma, UGC, Shanghai Film Studios",/tzG1UxUSfPACREjgBrsPDRUvneH.jpg
+309,309,889737,Joker: Folie à Deux,en,United States of America,"Drama, Crime, Thriller",138,2024-10-01,2546,5.425,190000000,"Warner Bros. Pictures, Joint Effort, Domain Entertainment",/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg
+310,310,985,Eraserhead,en,United States of America,"Horror, Fantasy",89,1977-09-28,2593,7.36,100000,AFI,/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg
+311,311,1955,The Elephant Man,en,United States of America,"Drama, History",124,1980-10-09,3709,8.049,5000000,Brooksfilms,/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg
+312,312,20126,Deep Red,it,Italy,"Horror, Mystery, Thriller",127,1975-03-07,1510,7.738,0,"Seda Spettacoli, Rizzoli Film",/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg
+313,313,20345,The Bird with the Crystal Plumage,it,"Germany, Italy","Horror, Mystery, Thriller",96,1970-02-27,794,7.15,500000,"Seda Spettacoli, CCC Filmkunst",/dpALRkwodEIT7TGX9SqTgwVNn0i.jpg
+314,314,11906,Suspiria,it,Italy,Horror,99,1977-02-01,3032,7.488,0,Seda Spettacoli,/5ya8jTbNZTrCFUx9OwpNBjCivXY.jpg
+315,315,28055,Blood and Black Lace,it,"Germany, France, Italy","Horror, Thriller, Mystery",88,1964-04-10,437,7.3,0,"Emmepi Cinematografica, Monachia Film, Les Productions Georges de Beauregard, Top-Film",/zYCQjsdktEvlWTRap836iI5paEL.jpg
+316,316,3763,Onibaba,ja,Japan,Horror,105,1964-11-21,438,7.7,0,Kindai Eiga Kyokai,/xyPLG53OodhJtvfQEfcmC43l16O.jpg
+317,317,4836,Layer Cake,en,United Kingdom,"Drama, Thriller, Crime",105,2004-09-30,2210,6.909,6500000,Marv,/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg
+318,318,1563,Sans Soleil,fr,France,Documentary,100,1983-03-02,250,7.4,0,Argos films,/sspJu9K03FZQP8A1cheurkiePD0.jpg
+319,319,123742,Junkopia,fr,France,Documentary,6,1981-01-01,40,5.9,0,Argos films,/sHTMdRN1NgUNgTNAUrwg1Fdobnz.jpg
+320,320,375262,The Favourite,en,"Ireland, United Kingdom, United States of America","History, Comedy, Drama",120,2018-11-23,5660,7.505,15000000,"Waypoint Entertainment, Element Pictures, Scarlet Films, Film4 Productions, Fox Searchlight Pictures, Fís Éireann/Screen Ireland, TSG Entertainment",/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg
+321,321,394117,The Florida Project,en,United States of America,Drama,112,2017-10-06,2929,7.429,2000000,"Cre Film, Freestyle Picture Company, June Pictures",/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg
+322,322,377,A Nightmare on Elm Street,en,"United States of America, United Kingdom",Horror,91,1984-11-09,5399,7.339,1800000,"New Line Cinema, Smart Egg Pictures, Media Home Entertainment, Cinema 84, The Elm Street Venture",/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg
+323,323,30497,The Texas Chain Saw Massacre,en,United States of America,Horror,83,1974-10-11,3543,7.3,140000,"Vortex, Henkel Productions, Hooper Productions, Bryanston Pictures",/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg
+324,324,592,The Conversation,en,United States of America,"Crime, Drama, Mystery",114,1974-04-07,1881,7.5,1600000,"The Directors Company, The Coppola Company",/dHqVBwcv1SGymOpUueRoKzcmdes.jpg
+325,325,331482,Little Women,en,United States of America,"Drama, Romance, History",135,2019-12-25,6520,7.864,40000000,"Columbia Pictures, Regency Enterprises, Pascal Pictures",/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg
+326,326,630,The Wizard of Oz,en,United States of America,"Adventure, Fantasy, Family",102,1939-08-15,5814,7.592,2777000,Metro-Goldwyn-Mayer,/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg
+327,327,1018,Mulholland Drive,en,"France, United States of America","Thriller, Drama, Mystery",147,2001-06-06,6614,7.808,15000000,"StudioCanal, Les Films Alain Sarde, Asymmetrical Productions, Babbo",/x7A59t6ySylr1L7aubOQEA480vM.jpg
+328,328,252171,A Girl Walks Home Alone at Night,en,United States of America,"Horror, Romance",101,2014-11-21,898,6.8,1000000,"Black Light District, Say Ahh Productions, SpectreVision, Logan Pictures",/cd2rCE1nun7CESjBI8PGNEof1tb.jpg
+329,329,36685,The Rocky Horror Picture Show,en,"United Kingdom, United States of America","Comedy, Science Fiction, Fantasy, Horror",100,1975-08-14,2937,7.4,1400000,"Michael White Productions, 20th Century Fox",/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg
+330,330,915935,Anatomy of a Fall,fr,France,"Thriller, Mystery, Crime",151,2023-08-23,2895,7.529,6700000,"Les Films de Pierre, Les Films Pelléas, France 2 Cinéma, Auvergne-Rhône-Alpes Cinéma",/kQs6keheMwCxJxrzV83VUwFtHkB.jpg
+331,331,240,The Godfather Part II,en,United States of America,"Drama, Crime",202,1974-12-20,13131,8.571,13000000,"Paramount Pictures, The Coppola Company, American Zoetrope",/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+332,332,503919,The Lighthouse,en,"Brazil, United States of America","Drama, Fantasy, Thriller",109,2019-10-18,5195,7.497,11000000,"RT Features, New Regency Pictures, Parts & Labor, Maiden Voyage Pictures",/f1tIYarTbkBdIT1aW0gzelDwknv.jpg
+333,333,10712,Far from Heaven,en,"United States of America, France","Drama, Romance",107,2002-11-08,639,7.047,13500000,"Focus Features, TF1 Films Production, Vulcan Productions, Killer Films, John Wells Productions, Section Eight",/9gQuvFDRPLx39smUvyafm36tp0d.jpg
+334,334,79158,LEGO Star Wars: Bombad Bounty,en,Denmark,"Family, Animation, Science Fiction, Comedy",5,2010-11-27,39,6.154,0,"M2Film, LEGO, Lucasfilm Ltd.",/r088BCbLiSxccTHXxIZBZ5olRvM.jpg
+335,335,81233,LEGO Star Wars: The Quest for R2-D2,en,,"Family, Animation, Science Fiction, Comedy",5,2009-08-28,42,5.6,0,"M2Film, LEGO, Lucasfilm Ltd.",/pfI6dMB5aplRYe7vSniDznnFWUx.jpg
+336,336,81234,LEGO Star Wars: Revenge of The Brick,en,United States of America,"Animation, Family, Science Fiction, Comedy, Action",5,2005-08-05,41,6.0,0,"Treehouse Animation, Lucasfilm Ltd., LEGO",/wi5IvbMRGD8fko6vv58NrogdJdd.jpg
+337,337,500,Reservoir Dogs,en,United States of America,"Crime, Thriller",99,1992-09-02,14785,8.118,1200000,"Live Entertainment, Dog Eat Dog Productions",/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg
+338,338,1127355,Afterwards,de,,Documentary,25,2023-05-27,0,0.0,0,,/fW6paSDJbXR0h1foa4RTGIKi5Vn.jpg
+339,339,1201460,Mediha,ku,"Iraq, United States of America",Documentary,90,2024-11-15,0,0.0,0,,/fDsmxaz0GvU5FYxekIuzZXRFpLm.jpg
+340,340,33427,LEGO: The Adventures of Clutch Powers,is,United States of America,"Action, Adventure, Animation, Family",81,2010-05-28,102,5.819,0,"Threshold Animation Studios, LEGO",/sa9UQfzagl6VjSwkoknZcqfeWQE.jpg
+341,341,704,A Hard Day's Night,en,United Kingdom,"Comedy, Music",88,1964-07-07,705,7.3,560000,"Proscenium Films, Walter Shenson Films, Maljack Productions, United Artists",/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg
+342,342,313369,La La Land,en,United States of America,"Comedy, Drama, Romance, Music",129,2016-12-01,17450,7.899,30000000,"Summit Entertainment, Gilbert Films, Impostor Pictures, Marc Platt Productions",/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg
+343,343,10098,The Kid,en,United States of America,"Comedy, Drama",68,1921-01-21,2223,8.2,250000,Charles Chaplin Productions,/drgMcyTsySQBnUPGaBThCHGdlWT.jpg
+344,344,636,THX 1138,en,United States of America,"Science Fiction, Action, Drama",86,1971-03-11,992,6.432,777000,"Warner Bros. Pictures, American Zoetrope",/25cQH5gZ60BiA5Y91HxoPpnFiY0.jpg
+345,345,98,Gladiator,en,"United Kingdom, United States of America","Action, Drama, Adventure",155,2000-05-04,19968,8.222,103000000,"Universal Pictures, Scott Free Productions, Red Wagon Entertainment, Mill Film, DreamWorks Pictures",/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg
+346,346,558449,Gladiator II,en,United States of America,"Action, Adventure, Drama",148,2024-11-13,3782,6.672,310000000,"Paramount Pictures, Scott Free Productions, Lucy Fisher/Douglas Wick Productions",/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg
+347,347,494423,Ocean Bird (Washup),en,,,4,1974-12-24,0,0.0,0,,/cPrPsexnLrwYxR4ExmhwB81NN0Z.jpg
+348,348,485252,Untitled: 'Silueta' Sequence No. 1,es,,,4,1978-11-05,0,0.0,0,,/gjWLLEJSb4hkBs54Jj7j5sqxMGS.jpg
+349,349,1029955,Kinds of Kindness,en,"Ireland, United Kingdom, United States of America","Drama, Comedy",164,2024-05-30,1061,6.512,15000000,"Searchlight Pictures, Film4 Productions, TSG Entertainment, Element Pictures, Limp",/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg
+350,350,275,Fargo,en,"United Kingdom, United States of America","Crime, Drama, Thriller",98,1996-03-08,8522,7.851,7000000,"PolyGram Filmed Entertainment, Working Title Films",/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg
+351,351,15,Citizen Kane,en,United States of America,"Mystery, Drama",119,1941-04-17,5729,7.999,839727,"Mercury Productions, RKO Radio Pictures",/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg
+352,352,1214509,In a Violent Nature,en,Canada,"Drama, Horror, Thriller",94,2024-05-31,424,5.673,600000,"Low Sky Productions, Zygote Pictures",/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg
+353,353,10363,Purple Noon,fr,"France, Italy","Crime, Drama, Thriller",118,1960-03-10,562,7.587,0,"Paris Film Production, Titanus, Robert et Raymond Hakim",/xGVRU34izQwG8YQNfVOSfKPhD3S.jpg
+354,354,840430,The Holdovers,en,United States of America,"Comedy, Drama",133,2023-10-27,2089,7.671,13000000,"Miramax, Gran Via Productions",/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
+355,355,1182047,The Apprentice,en,"United States of America, United Kingdom, Denmark, Ireland, Canada, Sweden","History, Drama",122,2024-10-09,721,6.905,16000000,"Gidden Media, Head Gear Films, Metrol Technology, Scythia Films, Profile Pictures, Tailored Films, Film Institute, Film i Väst, Fís Éireann/Screen Ireland, RocketScience, LB Entertainment, AC Films, Rich Spirit, Wild 7 Films",/zxA7bL9qOnU49NXIqpnyJlRvkqs.jpg
+356,356,406,La Haine,fr,France,Drama,98,1995-05-31,4268,8.085,2600000,"Kasso Productions, La Sept Cinéma, Les Productions Lazennec, Canal+, StudioCanal",/fFVWBMKLwwPh9K0hkrKwPUf8mwn.jpg
+357,357,74849,The Star Wars Holiday Special,en,United States of America,"Adventure, Science Fiction, Family, Music, TV Movie",97,1978-11-17,483,3.4,1000000,"20th Century Fox Television, Smith-Hemion Productions, Winters Hollywood Entertainment Holdings Corporation, Lucasfilm Ltd., Nelvana",/lGJDx7RCgyMMa3owtp150umMnnJ.jpg
+358,358,1470789,The Story of the Faithful Wookiee,en,,"Animation, Science Fiction",9,1978-11-17,1,6.0,0,,/qQj4ET9vsi8beAKuxXJKdNN2gHv.jpg
+359,359,9479,The Nightmare Before Christmas,en,United States of America,"Fantasy, Animation, Family",76,1993-10-09,9865,7.834,18000000,"Touchstone Pictures, Skellington Productions",/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg
+360,360,680,Pulp Fiction,en,United States of America,"Thriller, Crime, Comedy, Drama",154,1994-09-10,28990,8.487,8000000,"Miramax, A Band Apart, Jersey Films",/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
+361,361,345,Eyes Wide Shut,en,"United Kingdom, United States of America","Drama, Thriller, Mystery",159,1999-07-16,6547,7.485,65000000,"Warner Bros. Pictures, Stanley Kubrick Productions, Pole Star, Hobby Films",/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg
+362,362,965150,Aftersun,en,"United Kingdom, United States of America",Drama,101,2022-10-21,1613,7.681,0,"PASTEL, BBC Film, Tango Entertainment, Unified Theory, Screen Scotland, BFI",/evKz85EKouVbIr51zy5fOtpNRPg.jpg
+363,363,5991,The Last Laugh,de,Germany,Drama,90,1924-12-23,325,7.8,0,UFA,/7Y6Dxr3oYt1w7ew70YNdLLDYEjk.jpg
+364,364,414906,The Batman,en,United States of America,"Crime, Mystery, Thriller",177,2022-03-01,11152,7.659,185000000,"6th & Idaho Motion Picture Company, Dylan Clark Productions, DC Films, Warner Bros. Pictures",/74xTEgt7R36Fpooo50r9T25onhq.jpg
+365,365,436969,The Suicide Squad,en,United States of America,"Action, Comedy, Adventure",132,2021-06-06,9055,7.5,185000000,"DC Films, Atlas Entertainment, The Safran Company, Warner Bros. Pictures",/q61qEyssk2ku3okWICKArlAdhBn.jpg
+366,366,65471,Elvis: The '68 Comeback Special,en,,"Music, TV Movie",74,2018-08-16,13,8.4,0,,/fGWwke82HLpyGarQTlHQWMUo1mF.jpg
+367,367,823482,Dream Scenario,en,United States of America,"Comedy, Fantasy",102,2023-11-10,1098,6.653,10000000,"A24, Square Peg, Saturn Films",/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg
+368,368,324849,The Lego Batman Movie,en,"Australia, Denmark, United States of America","Animation, Action, Comedy, Family",104,2017-02-08,5182,7.228,80000000,"Lin Pictures, Animal Logic, DC Entertainment, Lord Miller, Warner Bros. Pictures, LEGO, Warner Animation Group, RatPac Entertainment",/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg
+369,369,1155828,Sing Sing,en,United States of America,Drama,107,2024-07-12,262,7.5,2000000,"Black Bear Pictures, Edith Productions, Marfa Peach Company",/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg
+370,370,620,Ghostbusters,en,United States of America,"Comedy, Fantasy",107,1984-06-08,9320,7.495,30000000,"Columbia Pictures, Delphi Films, Black Rhino Productions",/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg
+371,371,13187,A Charlie Brown Christmas,en,United States of America,"Animation, Family, Comedy, TV Movie",25,1965-12-09,726,7.7,96000,"United Feature Syndicate, Lee Mendelson Film Productions, Bill Melendez Productions, CBS",/vtaufTzJBMJAeziQA1eP4BLU24C.jpg
+372,372,839033,The Lord of the Rings: The War of the Rohirrim,en,"Japan, New Zealand, United States of America","Animation, Fantasy, Adventure, Action",134,2024-12-05,668,6.6,30000000,"New Line Cinema, Warner Bros. Animation, Sola Entertainment, Middle-earth Enterprises, WingNut Films, Domain Entertainment",/hE9SAMyMSUGAPsHUGdyl6irv11v.jpg
+373,373,1362,The Hobbit,en,"Japan, United States of America","Family, Fantasy, Animation, Adventure, TV Movie",77,1977-11-27,337,6.5,3000000,"Rankin/Bass Productions, Topcraft",/2ohvyMPhvjftLrM6S6Ljr6QrL0u.jpg
+374,374,123,The Lord of the Rings,en,"United Kingdom, United States of America","Adventure, Animation, Fantasy",132,1978-11-15,979,6.592,4000000,"Fantasy Films, Bakshi Productions, Saul Zaentz Film Productions, United Artists",/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg
+375,375,1361,The Return of the King,en,"United States of America, Japan","Animation, Fantasy, Adventure",98,1980-05-11,209,6.423,0,"Rankin/Bass Productions, Topcraft",/lTwUT4NsSyUQlHV20Mx3C96JHq4.jpg
+376,376,370755,Paterson,en,"United States of America, Germany, France","Drama, Comedy, Romance",118,2016-11-17,1945,7.106,5000000,"K5 International, Le Pacte, Inkjet Productions, Animal Kingdom",/hhpXV2SntaApx411hObmopQejdV.jpg
+377,377,840430,The Holdovers,en,United States of America,"Comedy, Drama",133,2023-10-27,2089,7.671,13000000,"Miramax, Gran Via Productions",/VHSzNBTwxV8vh7wylo7O9CLdac.jpg
+378,378,24128,Stop Making Sense,en,United States of America,"Documentary, Music",88,1984-11-16,319,8.329,1200000,"Talking Heads Films, Arnold Stiefel Company",/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg
+379,379,24798,True Stories,en,United States of America,"Comedy, Music",89,1986-10-10,133,6.7,0,"Pressman Film, Gary Kurfirst Pictures, True Stories Venture, Warner Bros. Pictures",/sngF8cskFWz2cig7b63ZaDNaQXr.jpg
+380,380,53200,Lessons of Darkness,de,"France, United Kingdom, Germany","War, Documentary",54,1992-02-21,140,7.846,0,"Canal+, Première, Werner Herzog Filmproduktion",/rSQaIbOQj6SUSOxr3BEiAmCoj1P.jpg
+381,381,6418,Hotel Chevalier,en,"France, United States of America","Drama, Romance",13,2007-10-26,865,6.906,0,"Fox Searchlight Pictures, American Empirical Pictures, Première Heure",/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg
+382,382,4538,The Darjeeling Limited,en,United States of America,"Adventure, Drama, Comedy",92,2007-09-07,3719,7.156,16000000,"Fox Searchlight Pictures, Collage, American Empirical Pictures",/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg
+383,383,3175,Barry Lyndon,en,"United Kingdom, United States of America","Drama, Romance, War, History",185,1975-12-18,2980,8.003,11000000,"Warner Bros. Pictures, Hawk Films, Peregrine",/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg
+384,384,653,Nosferatu,de,Germany,"Horror, Fantasy",95,1922-02-16,2295,7.673,0,Prana-Film,/zv7J85D8CC9qYagAEhPM63CIG6j.jpg
+385,385,6404,Nosferatu the Vampyre,de,"Germany, France","Drama, Horror",107,1979-01-17,1004,7.3,1400000,"Werner Herzog Filmproduktion, Gaumont",/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg
+386,386,10873,Shadow of the Vampire,en,"Luxembourg, United Kingdom, United States of America","Drama, Horror",95,2000-08-30,625,6.657,8000000,"BBC Film, Saturn Films, Long Shot Pictures, Pilgrim Films, Delux Productions, Film Fund Luxembourg",/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg
+387,387,872,Singin' in the Rain,en,United States of America,"Comedy, Romance",103,1952-04-10,3298,8.1,2540800,Metro-Goldwyn-Mayer,/w03EiJVHP8Un77boQeE7hg9DVdU.jpg
+388,388,146233,Prisoners,en,United States of America,"Drama, Thriller, Crime",153,2013-09-19,12364,8.098,46000000,"Alcon Entertainment, 8:38 Productions, Madhouse Entertainment",/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg
+389,389,78,Blade Runner,en,"United States of America, Hong Kong, United Kingdom","Science Fiction, Drama, Thriller",118,1982-06-25,14308,7.941,28000000,"Shaw Brothers, The Ladd Company, Warner Bros. Pictures",/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg
+390,390,348350,Solo: A Star Wars Story,en,United States of America,"Science Fiction, Adventure, Action",135,2018-05-15,8893,6.557,250000000,Lucasfilm Ltd.,/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg
+391,391,60308,Moneyball,en,United States of America,Drama,134,2011-09-23,5427,7.279,50000000,"Scott Rudin Productions, Michael De Luca Productions, Rachael Horovitz Productions, Columbia Pictures",/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg
+392,392,850165,The Iron Claw,en,"United Kingdom, United States of America","History, Drama",132,2023-12-21,1065,7.539,15900000,"A24, BBC Film, Access Entertainment, House Productions",/lsdismtCDga4vsKnmliz0h7CaZT.jpg
+393,393,929590,Civil War,en,"Finland, United Kingdom, United States of America","War, Action, Drama",109,2024-04-10,3760,6.855,50000000,"DNA Films, IPR.VC, A24",/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg
+394,394,1097549,Babygirl,en,"United States of America, Netherlands",Drama,115,2024-12-25,855,5.77,20000000,"A24, 2AM, Man Up Film",/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg
+395,395,426063,Nosferatu,en,United States of America,"Drama, Horror, Fantasy",133,2024-12-25,2974,6.705,50000000,"Focus Features, Studio 8, Maiden Voyage Pictures, Birch Hill Road Entertainment",/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg
+396,396,88421,Wavelength,en,"Canada, United States of America",Drama,45,1967-12-29,90,5.2,0,,/q60lRoITyC1tIMgvOZWflI6wgmU.jpg
+397,397,110354,Side by Side,en,United States of America,Documentary,99,2012-08-19,298,7.233,0,Company Films,/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg
+398,398,394151,Nosferatu: A Symphony of Horror,en,United States of America,Horror,92,2023-11-17,11,5.3,0,"BeamScreen Productions, Zemrak Pirkle Productions",/dD9B9Z9YoW1mrtmHPQ26LlhApka.jpg
+399,399,769,GoodFellas,en,United States of America,"Drama, Crime",145,1990-09-12,13555,8.455,25000000,"Winkler Films, Warner Bros. Pictures",/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg
+400,400,48784,Six Men Getting Sick,en,United States of America,"Animation, Horror",4,1967-01-01,195,5.538,200,Pensylvania Academy of Fine Arts,/5QGip6FQy0x3TcC7hkbV2IcYgj.jpg
+401,401,483,Wild at Heart,en,United States of America,"Crime, Thriller, Romance",125,1990-08-17,1787,7.043,9500000,"PolyGram Filmed Entertainment, Propaganda Films",/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg
+402,402,638,Lost Highway,en,"France, United States of America","Drama, Thriller, Mystery",134,1997-01-15,2771,7.54,15000000,"CiBy 2000, Asymmetrical Productions",/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg
+403,403,44510,The Grandmother,en,United States of America,"Animation, Horror",34,1970-07-01,171,6.594,7119,AFI,/llhiY0rV6RWU1LOdy9Zljhf7cXm.jpg
+404,404,48847,The Amputee,en,United States of America,"Drama, Comedy",6,1974-01-01,127,5.1,0,"Lynch Films, AFI",/6yRz5TOhNCbpOQ76daKSPh8x3Fe.jpg
+405,405,44239,The Alphabet,en,United States of America,"Animation, Horror",4,1969-02-13,230,6.5,0,Pensylvania Academy of Fine Arts,/thTiEL6egntN6g0qefN1Kie3HdI.jpg
+406,406,1730,Inland Empire,en,"United States of America, Poland, France","Horror, Thriller, Mystery, Drama, Fantasy",180,2006-12-06,1171,6.999,15000000,"Absurda, StudioCanal, Camerimage Film, Asymmetrical Productions",/1ypMcAcqTZrcxFJvERemKc6t9sX.jpg
+407,407,27064,Mishima: A Life in Four Chapters,ja,"Japan, United States of America",Drama,121,1985-09-20,311,7.814,5000000,"Lucasfilm Ltd., American Zoetrope, Filmlink International",/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg
+408,408,1033807,Premonitions Following an Evil Deed,en,United States of America,"Horror, Romance",1,1995-02-12,19,6.395,0,Asymmetrical Productions,/lcrZxQButYmTtOPV79g89th5K8P.jpg
+409,409,11167,Peeping Tom,en,United Kingdom,"Horror, Thriller, Drama",101,1960-05-16,843,7.4,150000,Michael Powell (Theatre),/kM4AfLIlbcuRZ621vYjyeBFkuba.jpg
+410,410,21484,Possession,en,"France, Germany",Horror,124,1981-05-27,1201,7.4,2400000,"Gaumont, Oliane Productions, Marianne Productions, Soma Film Produktion",/lUFZsUuJ0YyhBXH8D2BFUd6wODm.jpg
+411,411,985,Eraserhead,en,United States of America,"Horror, Fantasy",89,1977-09-28,2593,7.36,100000,AFI,/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg
+412,412,413765,David Lynch: The Art Life,en,United States of America,Documentary,89,2017-02-15,203,6.943,179554,"Kong Gulerod Film, Duck Diver Films, Hideout Films",/pgtQceTZKylB2B237t18h2pOXpE.jpg
+413,413,16858,All That Jazz,en,United States of America,Drama,123,1979-12-16,540,7.5,12000000,"Columbia Pictures, 20th Century Fox",/culCEdj4srLljefgn4XKd6k3C5t.jpg
+414,414,8051,Punch-Drunk Love,en,United States of America,"Romance, Drama, Comedy",96,2002-10-11,2495,7.115,25000000,"Columbia Pictures, Revolution Studios, New Line Cinema, JoAnne Sellar Productions, Ghoulardi Film Company",/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg
+415,415,549509,The Brutalist,en,"United Kingdom, United States of America","Drama, History",215,2024-12-20,1218,7.0,9600000,"Brookstreet Pictures, Kaplan Morrison, Intake Films, Andrew Lauren Productions, Lipsync Productions, Richmond Pictures, Meyohas Studio, Carte Blanche, Pierce Capital Entertainment",/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg
+416,416,27205,Inception,en,United States of America,"Action, Science Fiction, Adventure",148,2010-07-15,37819,8.369,160000000,"Legendary Pictures, Syncopy, Warner Bros. Pictures",/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg
+417,417,6977,No Country for Old Men,en,United States of America,"Crime, Thriller, Western",122,2007-06-13,12573,7.946,25000000,"Miramax, Paramount Vantage, Scott Rudin Productions, Mike Zoss Productions",/6d5XOczc226jECq0LIX0siKtgHR.jpg
+418,418,501,Grizzly Man,en,United States of America,Documentary,103,2005-07-28,887,7.537,0,"Discovery Docs, Real Big Production, Lions Gate Films",/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg
+419,419,1064213,Anora,en,United States of America,"Drama, Comedy, Romance",139,2024-10-14,2527,7.048,6000000,"Cre Film, FilmNation Entertainment",/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg
+420,420,120,The Lord of the Rings: The Fellowship of the Ring,en,"New Zealand, United States of America","Adventure, Fantasy, Action",179,2001-12-18,26277,8.424,93000000,"New Line Cinema, WingNut Films, The Saul Zaentz Company",/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg
+421,421,891933,Sometimes I Think About Dying,en,United States of America,"Drama, Comedy, Romance",94,2024-01-10,107,6.682,0,"Page Fifty-Four Pictures, Mirror Image Films, Sweet Tomato Films, Point Productions",/lp0dtmNtOW88A13GZjGoKZko7S8.jpg
+422,422,36881,Asparagus,en,United States of America,Animation,20,1979-03-17,61,6.7,0,,/vt5shhypt7fGzm1GslyUhCXN5dH.jpg
+423,423,1320297,Beauty Is Not a Sin,it,"Denmark, Italy",Drama,8,2024-08-31,20,6.0,0,Art + Vibes,/9JMfEig35xOOVdHKM20n3bjtL6x.jpg
+424,424,933260,The Substance,en,"France, United Kingdom, United States of America","Drama, Horror, Science Fiction",141,2024-09-07,4964,7.144,17500000,"Working Title Films, Blacksmith, Working Title Films",/evdF1vmLzuzH8EFblqAXBXWRGSi.jpg
+425,425,822119,Captain America: Brave New World,en,United States of America,"Action, Thriller, Science Fiction",119,2025-02-12,2543,6.03,180000000,"Marvel Studios, Kevin Feige Productions",/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg
+426,426,10319,Woyzeck,de,Germany,Drama,82,1979-05-25,187,6.6,0,"Werner Herzog Filmproduktion, ZDF",/lxJThwhfqvyIRD6VszknCNCSokK.jpg
+427,427,9343,Fitzcarraldo,de,"Germany, Peru","Drama, Adventure",157,1982-03-02,814,7.625,7362000,"Werner Herzog Filmproduktion, Pro-ject Filmproduktion, ZDF, Wildlife Films Peru, Filmverlag der Autoren",/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg
+428,428,531428,Portrait of a Lady on Fire,fr,France,"Drama, Romance, History",121,2019-09-18,2748,8.117,5740000,"Lilies Films, ARTE France Cinéma, Hold Up Films",/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg
+429,429,121842,Echoes from a Sombre Empire,de,"Germany, France",Documentary,91,1990-11-28,19,7.1,0,"Sera Filmproduktions, Werner Herzog Filmproduktion, Films sans frontières",/23RxxJxff0e0tozNOq3i7xqKsyd.jpg
+430,430,45555,God's Angry Man,de,Germany,Documentary,44,1981-05-17,21,5.4,0,"Werner Herzog Filmproduktion, Süddeutscher Rundfunk, Südfunk Stuttgart",/x5nIjXmdDbKNsFIVdQr4lRNKMh6.jpg
+431,431,48227,La Soufrière: Waiting for an Inevitable Catastrophe,de,"Germany, Guadaloupe",Documentary,31,1977-10-01,58,7.319,30000,"Werner Herzog Filmproduktion, Süddeutscher Rundfunk",/yNoPeBRIE4zEgVBpgPLx2n1gNgS.jpg
+432,432,974576,Conclave,en,"United Kingdom, United States of America","Drama, Thriller",120,2024-10-25,2834,7.203,20000000,"FilmNation Entertainment, Indian Paintbrush, House Productions",/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg
+433,433,12104,Pink Floyd: The Wall,en,United Kingdom,"Music, Drama",95,1982-07-14,1552,7.949,12000000,"Goldcrest, Tin Blue, Metro-Goldwyn-Mayer",/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg
+434,434,473888,Ryuichi Sakamoto: Coda,ja,"Japan, United States of America","Documentary, Music",100,2017-11-04,47,7.394,0,"Borderland Media, Cineric Creative",/604KuuoYofIbYRjZZ8BUoq2f8NE.jpg
+435,435,11513,Cobra Verde,de,"Germany, Ghana","Adventure, Drama",111,1987-12-03,158,6.905,0,"Werner Herzog Filmproduktion, ZDF, Ghana Film Industry Corporation",/5Cce5ZgJ9yyDqCmwAi6mcULfIop.jpg
+436,436,696506,Mickey 17,en,"United States of America, United Kingdom","Science Fiction, Comedy, Adventure",137,2025-02-28,2567,6.9,118000000,"Warner Bros. Pictures, Plan B Entertainment, Offscreen, Kate Street Picture Company, Domain Entertainment",/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg
+437,437,807,Se7en,en,United States of America,"Crime, Mystery, Thriller",127,1995-09-22,21993,8.376,33000000,"New Line Cinema, Juno Pix, Arnold Kopelson Productions",/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg
+438,438,8672,My Best Fiend,de,"Germany, United Kingdom",Documentary,95,1999-05-17,203,7.308,0,"Café Productions, Zephir Film, Werner Herzog Filmproduktion",/aipkPgZVlTqqACWHHeHbIHqoQbs.jpg
+439,439,57976,Little Dieter Needs to Fly,en,"France, Germany, United Kingdom",Documentary,80,1997-12-01,88,7.5,0,"Werner Herzog Filmproduktion, ZDF",/2sLpyYytu0Dbymzs3skxOCRHKkl.jpg
+440,440,763329,Red Rocket,en,United States of America,"Drama, Comedy",130,2021-12-10,556,6.78,1100000,"FilmNation Entertainment, Cre Film",/345gLhiNpItU1ICx8OxJQwjgPmH.jpg
+441,441,121,The Lord of the Rings: The Two Towers,en,"New Zealand, United States of America","Adventure, Fantasy, Action",179,2002-12-18,22829,8.409,79000000,"New Line Cinema, WingNut Films, The Saul Zaentz Company",/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg
+442,442,1234397,Grand Theft Hamlet,en,"United Kingdom, United States of America","Animation, Documentary",91,2024-12-06,42,6.774,200000,"Grasp The Nettle Films, Project 1961, Park Pictures Features, Spark Features, Hazel Pictures",/61pws82KZEssg883HG3kwN16cRw.jpg
+443,443,122,The Lord of the Rings: The Return of the King,en,"New Zealand, United States of America","Adventure, Fantasy, Action",201,2003-12-17,25370,8.5,94000000,"New Line Cinema, WingNut Films, The Saul Zaentz Company",/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+444,444,548,Rashomon,ja,Japan,"Crime, Drama, Mystery",88,1950-08-26,2361,8.056,250000,Daiei Film,/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg
+445,445,13666,The Wolf Man,en,United States of America,"Horror, Drama",70,1941-12-12,643,7.0,180000,Universal Pictures,/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg
+446,446,3782,Ikiru,ja,Japan,Drama,143,1952-10-09,1226,8.3,0,TOHO,/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg
+447,447,346,Seven Samurai,ja,Japan,"Action, Drama",207,1954-04-26,3966,8.456,2000000,TOHO,/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg
+448,448,3777,Throne of Blood,ja,Japan,"Drama, History",108,1957-01-15,919,7.9,0,TOHO,/zaZFMNxJST0TtPd68yF7fNt1he8.jpg
+449,449,894205,Werewolf by Night,en,United States of America,"Action, Fantasy, Horror",55,2022-09-25,1402,6.975,0,"Marvel Studios, Kevin Feige Productions",/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg
+450,450,31414,Satantango,hu,"Germany, Hungary, Switzerland",Drama,432,1994-02-08,277,8.1,1500000,"Von Vietinghoff Filmproduktion (VVF), Vega Film, Mozgókép Innovációs Társulás és Alapítvány, Magyar Televízió, TSR",/y38z0v4HJ12MHiKddLEoFlvPiBt.jpg
+451,451,11645,Ran,ja,"Japan, France","Action, Drama, History",160,1985-06-01,1665,8.054,12000000,"Nippon Herald Films, Greenwich Film Production, Herald Ace, Kurosawa Film Production",/jQnUtWaHYfqnXPOIf77K7Ycqk4M.jpg
+452,452,12516,Dreams,ja,"United States of America, Japan","Fantasy, Drama",119,1990-05-11,508,7.697,12000000,"Warner Bros. Pictures, Akira Kurosawa USA",/ua17wrOrUjyqxuYmnUrmOVBMf4G.jpg
+453,453,14784,The Fall,en,United States of America,"Adventure, Fantasy, Drama",119,2006-09-09,1393,7.606,30000000,"Googly Films, Absolute Entertainment, RadicalMedia, Tree Top Films, Deep Films",/jUx4P4Q1VsQ07rLz7sOlSyNm4F3.jpg
+454,454,553,Dogville,en,"Denmark, Finland, France, Germany, Netherlands, Norway, Sweden, United Kingdom, Italy","Crime, Drama, Thriller",178,2003-05-21,2532,7.77,10000000,"Zentropa Entertainments, Isabella Films B.V., Something Else B.V., Memfis Film, Trollhättan Film, Pain Unlimited Filmproduktion, Sigma Films, Zoma Films, Slot Machine, Liberator Productions, Film i Väst, ARTE France Cinéma, France 3 Cinéma, WDR/Arte, DR, SVT, NPS, YLE, Norsk TV2 AS, Edith Film, Spillefilmselskapet 4 1/2, Fjeldabe Films AS, Invicta Capital, TV 1000 Sverige",/lraVawavIXh5geMlVjpzCw9TGwR.jpg
+455,455,27970,Werewolf of London,en,United States of America,"Horror, Fantasy",75,1935-05-13,137,6.0,0,Universal Pictures,/78kD3Fpvgd8qubKMbhS5dKofjR8.jpg
+456,456,25858,Drunken Angel,ja,Japan,Drama,98,1948-04-27,286,7.6,0,TOHO,/9kETXBSr6kawvtWJioacJjOofF2.jpg
+457,457,1019939,Hundreds of Beavers,en,United States of America,"Comedy, Adventure, Action",108,2024-01-26,196,7.224,150000,SRH,/qgXS9HrYaYDnILeXebatCbtX9IP.jpg
+458,458,452,The Idiots,da,"Denmark, France, Germany, Netherlands","Comedy, Drama",114,1998-04-28,615,6.5,2500000,"Zentropa Entertainments, DR TV, La Sept Cinéma, Liberator Productions, VPRO, Argus Film Produktie, ZDF/Arte",/4osY7ZYfu3GaxMUNpnCQEwmfvK7.jpg
+459,459,3112,The Night of the Hunter,en,United States of America,"Crime, Drama, Thriller",93,1955-07-27,1696,7.9,795000,Paul Gregory Productions,/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg
+460,460,27072,On the Silver Globe,pl,Poland,"Science Fiction, Drama",165,1989-02-10,157,7.748,0,"Zespół Filmowy ""Pryzmat"", Zespół Filmowy Kadr",/4zzam82e6rCY2Ktm0fyRoseHhkh.jpg
+461,461,813106,Burning,hi,India,,18,2018-11-20,3,6.3,0,Sarvamangala,/hxGv1O2W5SOJTmiBc45CL842mrx.jpg
+462,462,43003,F for Fake,fr,"France, Germany, Iran",Documentary,89,1973-09-01,340,7.4,0,"SACI, Les Films de l'Astrophore, Janus Film und Fernsehen",/fVeIDxS73CrosoeVOaefQuCUGZg.jpg
+463,463,68722,The Master,en,United States of America,Drama,137,2012-09-14,3079,7.112,32000000,"Annapurna Pictures, Ghoulardi Film Company, JoAnne Sellar Productions",/jjVGdNt4fYb3T2hjISGZ2qnCuaV.jpg
+464,464,8374,The Boondock Saints,en,"Canada, United States of America","Action, Thriller, Crime",108,1999-01-22,2533,7.253,6000000,"Franchise Pictures, Brood Syndicate, B.D.S. Productions Inc.",/wtLUmkWg41xFLpvmUWAN1mm65f6.jpg
+465,465,8416,The Conformist,it,"Germany, France, Italy",Drama,108,1970-07-01,715,7.657,750000,"Marianne Productions, Maran Film, Mars Film Produzione",/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg
+466,466,992,Sherlock Jr.,en,United States of America,"Action, Comedy, Mystery",45,1924-04-17,1069,8.056,0,Metro Pictures Corporation,/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg
+467,467,115,The Big Lebowski,en,"United Kingdom, United States of America","Comedy, Crime",117,1998-03-06,11641,7.838,15000000,"PolyGram Filmed Entertainment, Working Title Films",/9mprbw31MGdd66LR0AQKoDMoFRv.jpg
+468,468,26564,Crumb,en,United States of America,Documentary,120,1994-09-10,263,7.534,0,"Superior Pictures, Sony Pictures Classics",/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg
+469,469,9769,Lolita,en,"France, United States of America","Drama, Romance",137,1997-09-27,1869,7.137,62000000,"Pathé, Lolita Productions",/9INcC14WZjCMKGE360VXmklCLdZ.jpg
+470,470,814,An American Werewolf in London,en,"United Kingdom, United States of America","Comedy, Horror",97,1981-08-21,2540,7.407,10000000,"Lyncanthrope Films, Polygram Pictures",/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg
+471,471,266229,The Eve of Ivan Kupalo,uk,Soviet Union,"Drama, Fantasy, Mystery",71,1968-12-25,18,6.9,0,Dovzhenko Film Studios,/jlqtwZIjcmMoDJGI95ScAs7bkl9.jpg
+472,472,527634,Hansel and Gretel,en,United States of America,"Fantasy, Horror",27,2007-03-12,18,5.361,0,Palehorse Productions,
+473,473,426063,Nosferatu,en,United States of America,"Drama, Horror, Fantasy",133,2024-12-25,2974,6.705,50000000,"Focus Features, Studio 8, Maiden Voyage Pictures, Birch Hill Road Entertainment",/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg
+474,474,779,Vampyr,de,"France, Germany","Horror, Fantasy, Mystery",73,1932-05-06,558,7.269,0,Tobis Filmkunst,/yt3JS5JSoZseSohYkhs6FLU9B0O.jpg
+475,475,1121750,Maurice's Bar,fr,"France, Israel",Animation,15,2024-10-24,12,7.5,0,Sacrebleu Productions,/rOdJto0vtZJzMds6frexNJx3AlB.jpg
+476,476,986280,Fallen Leaves,fi,"Finland, Germany","Romance, Comedy, Drama",81,2023-09-14,643,7.149,1480000,"Sputnik, Bufo, Pandora Film",/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg
+477,477,44345,The Cutting Edge: The Magic of Movie Editing,en,"Japan, United Kingdom, United States of America","Documentary, History",98,2004-10-12,108,6.979,0,"A.C.E., BBC, NHK Enterprises, TCEP",/pYewLhNlsm5nfSm5IkwUwZldcch.jpg
+478,478,7345,There Will Be Blood,en,United States of America,Drama,158,2007-12-26,6932,8.074,25000000,"Paramount Vantage, Miramax, JoAnne Sellar Productions, Ghoulardi Film Company",/fa0RDkAlCec0STeMNAhPaF89q6U.jpg
+479,479,157336,Interstellar,en,"United Kingdom, United States of America","Adventure, Drama, Science Fiction",169,2014-11-05,37690,8.46,165000000,"Legendary Pictures, Syncopy, Lynda Obst Productions",/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg
+480,480,45803,Svengali,en,United States of America,"Drama, Horror, Romance",81,1931-05-20,48,6.146,0,"Warner Bros. Pictures, The Vitaphone Corporation",/jLE87vAc9bqytSZAfU76MmnQdMh.jpg
+481,481,655,"Paris, Texas",en,"United Kingdom, Germany, France",Drama,145,1984-07-16,2027,8.101,1750000,"Road Movies, Argos films, WDR, Channel Four Films, Pro-ject Filmproduktion",/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg
+482,482,1359,American Psycho,en,"Canada, United States of America","Thriller, Drama, Crime",102,2000-04-13,11545,7.407,7000000,"Lionsgate, Pressman Film, Muse Productions, Christian Halsey Solomon Productions",/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg
+483,483,9464,Buffalo '66,en,United States of America,"Drama, Romance, Comedy",110,1998-01-20,980,7.13,1500000,"Gray Daisy Films, Muse Productions",/fxzXFzbSGNA52NHQCMqQiwzMIQw.jpg
+484,484,595841,Making Waves: The Art of Cinematic Sound,en,United States of America,"Documentary, History",95,2019-10-25,72,6.8,0,"Ain't Heard Nothin' Yet Corp., GoodMovies Entertainment, Busterfilms",/jafF7jcl116rzohZydL1VfK1y2e.jpg
+485,485,330459,Rogue One: A Star Wars Story,en,United States of America,"Action, Adventure, Science Fiction",133,2016-12-14,15811,7.501,200000000,Lucasfilm Ltd.,/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg
+486,486,1416164,Muse,en,United States of America,"Drama, Romance",5,2025-02-14,0,0.0,0,Americana Pictures,/5piPRA8jgJVa3QnPlfDOlPctNUk.jpg
+487,487,1203484,Monster,xx,Indonesia,"Thriller, Horror",84,2023-11-29,52,5.1,0,Falcon Pictures,/OsWKxswXx2TOx87ZRxdOciu0uB.jpg
+488,488,29005,McCabe & Mrs. Miller,en,United States of America,"Western, Drama",120,1971-06-24,420,7.162,0,"Warner Bros. Pictures, Robert Altman-David Foster Productions",/eQ9hDaTNpZ4wb7FWdqoJcOCJBve.jpg
+489,489,1234253,M.A.Y.A.,en,United States of America,Science Fiction,12,2024-04-28,0,0.0,0,DKA Omega,/a6QDcNpRdokls04LydL1CXpVQxw.jpg
+490,490,68718,Django Unchained,en,United States of America,"Drama, Western",165,2012-12-25,26988,8.184,100000000,"The Weinstein Company, Columbia Pictures",/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg
+491,491,79423,Valparaiso,fr,"Chile, France",Documentary,27,1964-08-31,54,6.907,0,"Argos films, Cine Experimental de la Universidad de Chile, Universidad de Chile",/meaV1OEdBgFt0iQ3NVoGr9mv1cN.jpg
+492,492,937287,Challengers,en,"Italy, United States of America","Drama, Romance",132,2024-04-18,2299,6.954,55000000,"Pascal Pictures, Why Are You Acting? Productions, Frenesy Film, Amazon MGM Studios",/H6vke7zGiuLsz4v4RPeReb9rsv.jpg
+493,493,111833,Boro in the Box,fr,France,"Drama, Fantasy",40,2014-07-02,27,6.833,0,"Société Parisienne de Production, Coproduction Office",/ybTme70iKysvxDyjk2LTiZAzp00.jpg
+494,494,1233413,Sinners,en,United States of America,"Horror, Action, Thriller",138,2025-04-16,2366,7.544,90000000,"Warner Bros. Pictures, Proximity Media, Domain Entertainment",/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg
+495,495,242582,Nightcrawler,en,United States of America,"Crime, Drama, Thriller",118,2014-10-23,11171,7.704,8500000,"Sierra/Affinity, Bold Films",/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg
+496,496,595900,"Family Romance, LLC",en,United States of America,Drama,110,2019-10-24,72,6.153,0,Skellig Rock,/igtALo7638WulIIdBSQetdjFGWN.jpg
+497,497,44238,World of Glory,sv,Sweden,"Comedy, Drama",17,1991-11-08,80,7.125,0,"SVT Drama, Studio 24, Svenska Filminstitutet",/AkmArVfTaXS9SPqOjWe80TY0vCC.jpg
+498,498,1847,The Long Goodbye,en,United States of America,"Mystery, Crime, Comedy, Drama, Thriller",112,1973-03-08,697,7.393,1700000,"United Artists, Lion's Gate Films",/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg
+499,499,1098709,Grand Tour,pt,"China, France, Germany, Italy, Japan, Portugal","Drama, Adventure",129,2024-11-27,35,6.814,0,"Uma Pedra no Sapato, Vivo Film, Shellac Sud, Cinéma Defacto, Eurimages, MiC, Rediance, CREATPS, The Match Factory, Cinémadefacto",/snSCYfdV5bgelwPHGUFKKfefDqy.jpg
+500,500,766159,Tripping with Nils Frahm,en,"Germany, United States of America","Music, Documentary",87,2020-12-03,28,7.5,0,"Plan B Entertainment, LEITER Verlag",/wDQ2TGDHyUaQ0ARGnAk0rFfZWtn.jpg
+501,501,11,Star Wars,en,United States of America,"Adventure, Action, Science Fiction",121,1977-05-25,21404,8.205,11000000,"Lucasfilm Ltd., 20th Century Fox",/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
+502,502,1891,The Empire Strikes Back,en,United States of America,"Adventure, Action, Science Fiction",124,1980-05-20,17608,8.396,18000000,Lucasfilm Ltd.,/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg
+503,503,599377,Lux Æterna,fr,France,"Drama, Horror",51,2020-09-23,248,6.089,0,"Vixens, Les Cinémas de la Zone, Saint Laurent",/5oStzv8gUrAAevtIiv0icGcvAbq.jpg
+504,504,1892,Return of the Jedi,en,United States of America,"Adventure, Action, Science Fiction",132,1983-05-25,16249,7.905,32350000,Lucasfilm Ltd.,/jQYlydvHm3kUix1f8prMucrplhm.jpg
+505,505,593,Solaris,ru,Soviet Union,"Drama, Science Fiction, Mystery",167,1972-03-20,1697,7.794,0,"Unit Four, Creative Unit of Writers & Cinema Workers, Mosfilm",/uER8n2iitx8Tek6v0wXeF5lMGXp.jpg
+506,506,48775,The Killers,ru,Soviet Union,"Crime, Drama",19,1956-01-01,98,5.969,0,VGIK,/4oOz7UIQpz9d7rshhEEnukPgsw2.jpg
+507,507,45590,There Will Be No Leave Today,ru,Soviet Union,"Drama, TV Movie",46,1959-05-09,42,5.7,0,VGIK,/ojihzqLoTVjzUWHwYu1PkETP6Hs.jpg
+508,508,38311,The Steamroller and the Violin,ru,Soviet Union,Drama,46,1961-12-30,145,7.0,0,Mosfilm,/rQILTYttUhFTy715d41SG50Xpfi.jpg
+509,509,31442,Ivan's Childhood,ru,Soviet Union,"Drama, War",95,1962-05-09,775,7.823,0,"Tretye Tvorcheskoe Obyedinenie, Mosfilm",/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg
+510,510,1233413,Sinners,en,United States of America,"Horror, Action, Thriller",138,2025-04-16,2366,7.544,90000000,"Warner Bros. Pictures, Proximity Media, Domain Entertainment",/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg
+511,511,895,Andrei Rublev,ru,Soviet Union,"Drama, History",183,1966-12-16,883,7.976,0,Mosfilm,/910xRIUmNJrWH2hkQifBJtoPp5R.jpg
+512,512,1396,Mirror,ru,Soviet Union,"Drama, History",107,1975-03-07,1013,7.958,825000,Mosfilm,/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg
+513,513,490,The Seventh Seal,sv,Sweden,"Fantasy, Drama",96,1957-02-16,3155,8.179,150000,SF Studios,/wcZ21zrOsy0b52AfAF50XpTiv75.jpg
+514,514,288,High Noon,en,United States of America,"Western, Drama",85,1952-06-09,1498,7.667,730000,Stanley Kramer Productions,/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg
+515,515,2972,The Golem: How He Came Into the World,de,Germany,"Fantasy, Horror",76,1920-10-28,221,7.0,0,Projektions-AG Union,/7zdqM0MgZBfy3tuJdNO4cWAGBtj.jpg
+516,516,128,Princess Mononoke,ja,Japan,"Adventure, Fantasy, Animation",134,1997-07-12,8480,8.326,23500000,"Studio Ghibli, Nibariki, dentsu Music and Entertainment, TNDG, Tokuma Shoten, Nippon Television Network Corporation, dentsu",/cMYCDADoLKLbB83g4WnJegaZimC.jpg
+517,517,1398,Stalker,ru,Soviet Union,"Science Fiction, Drama",162,1979-05-25,2341,8.112,120000,Mosfilm,/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg
+518,518,1394,Nostalgia,ru,"Italy, Soviet Union","Drama, Romance",124,1983-06-02,569,7.806,875000,"Sovinfilm, Opera Film Produzione, RAI",/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg
+519,519,47011,Voyage in Time,it,"Italy, Soviet Union","Documentary, TV Movie",62,1990-03-27,54,6.722,0,"GENIUS s.r.l., RAI",/8SKuLuaM7CO4wvvU4vm6dQFmjYK.jpg
+520,520,24657,The Sacrifice,sv,"Sweden, France, United Kingdom",Drama,149,1986-05-09,566,7.7,0,"Faragó Film, Svenska Filminstitutet",/8JMh27z075ZHbFE85XYkdXF2QkK.jpg
+521,521,631,Sunrise: A Song of Two Humans,en,United States of America,"Drama, Romance",94,1927-11-04,846,7.835,0,Fox Film Corporation,/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg
+522,522,39340,Behind Convent Walls,it,Italy,Drama,95,1978-01-25,53,5.0,0,"Lisa Film, TRUST INTERNATIONAL FILMS",/ybNZljxIg4lp9BnujCjyNkMiqBg.jpg
+523,523,18352,The Cremator,cs,Czechoslovakia,"Comedy, Horror, Drama",101,1969-03-14,243,7.804,0,Filmové studio Barrandov,/9or2Jzw9HOE4gp9niwXBkZdpTVx.jpg
+524,524,78507,Spies,de,Germany,"Thriller, Romance",145,1928-03-22,86,7.4,0,"UFA, Fritz Lang-Film",/8GYtYDccV7TTQf1nWjm9yItZ5zp.jpg
+525,525,45243,The Hangover Part II,en,United States of America,Comedy,102,2011-05-25,10818,6.492,80000000,"Legendary Pictures, Green Hat Films, Warner Bros. Pictures",/7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg
+526,526,618,The Birth of a Nation,en,United States of America,"Drama, History, War",195,1915-03-08,561,5.972,100000,Epoch Film Co.,/f9MkgI1ObRVvJwWgJyWtRbgyWng.jpg
+527,527,884,Crash,en,"Canada, United Kingdom","Thriller, Drama",100,1996-07-17,1232,6.44,9000000,"Alliance Films, Recorded Picture Company",/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg
+528,528,630240,Titane,fr,"Belgium, France","Drama, Thriller, Horror",108,2021-07-14,1548,6.335,6600000,"Kazak Productions, ARTE France Cinéma, Frakas Productions, VOO, BeTV",/AeQC4gFwkIvjAwnSd2RPAlgs1VE.jpg
+529,529,1786,Au Revoir les Enfants,fr,"Germany, France","Drama, War",105,1987-10-07,681,7.514,105,"Nouvelles Éditions de Films, MK2 Films, Stella Film, N.E.F. Filmproduktion und Vertriebs (I)",/lXP90Vx7OcviBfbbokcaG6zVnPG.jpg
+530,530,26782,Shadows of Forgotten Ancestors,uk,Soviet Union,"Drama, Romance",96,1965-10-18,169,7.6,0,Dovzhenko Film Studios,/9oSZTeejmx80tIBVSqYzJpFhjkI.jpg
+531,531,149455,A Spring for the Thirsty,uk,Soviet Union,Drama,73,1965-05-03,19,6.9,0,Dovzhenko Film Studios,/z8c5FZAoHvEbgUTq46BbVPT8qQc.jpg
+532,532,29452,The Face of Another,ja,Japan,"Drama, Science Fiction",122,1966-07-15,265,7.791,0,"Teshigahara Productions, Tokyo Eiga",/eUnFdf1Mf1b8AD3ChMPOCUfTBDQ.jpg
+533,533,126909,Cousin Ben Troop Screening,en,United States of America,Comedy,2,2012-06-19,116,6.397,0,Funny or Die,/u0SbegbpJGPXkKXDNeTfkhtYOIB.jpg
+534,534,83666,Moonrise Kingdom,en,United States of America,"Comedy, Drama, Romance",94,2012-05-16,6062,7.679,16000000,"Indian Paintbrush, American Empirical Pictures",/y4SXcbNl6CEF2t36icuzuBioj7K.jpg
+535,535,26302,The Color of Pomegranates,hy,Soviet Union,"Drama, History",80,1969-10-01,295,7.4,0,Armenia Studio,/35Sj3VeGLj8r8sT1XbxbrgD7KfI.jpg
+536,536,13685,Bottle Rocket,en,United States of America,"Comedy, Crime, Drama",91,1996-02-21,1105,6.688,7000000,"Gracie Films, Columbia Pictures, Boyle-Taylor Productions",/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg
+537,537,120467,The Grand Budapest Hotel,en,"United States of America, Germany","Comedy, Drama",100,2014-02-26,15363,8.037,30000000,"Fox Searchlight Pictures, Studio Babelsberg, Indian Paintbrush, TSG Entertainment, American Empirical Pictures",/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg
+538,538,829,Chinatown,en,United States of America,"Crime, Drama, Mystery, Thriller",130,1974-06-20,4003,7.9,6000000,"Paramount Pictures, Long Road Productions, Robert Evans Productions",/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg
+539,539,542178,The French Dispatch,en,"United States of America, Germany","Drama, Comedy",108,2021-10-21,2768,7.028,25000000,"Indian Paintbrush, American Empirical Pictures, Studio Babelsberg",/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg
+540,540,666277,Past Lives,en,"South Korea, United States of America","Drama, Romance",106,2023-06-02,1993,7.7,12000000,"A24, Killer Films, 2AM, CJ ENM",/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg
+541,541,95597,Black Girl,fr,"France, Senegal",Drama,65,1966-03-17,155,7.3,0,"Filmi Domirev, Les Actualités Françaises",/hYYAk9I9KkscSr8DC30KyDjzsVu.jpg
+542,542,1136867,Materialists,en,"United States of America, Finland","Romance, Drama",116,2025-06-12,417,6.7,20000000,"A24, Killer Films, 2AM, IPR.VC, Access Entertainment",/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg
+543,543,11035,Roma,it,"France, Italy","Comedy, Drama",120,1972-03-16,337,7.2,0,"Les Productions Artistes Associés, Ultra Film",/rqK75R3tTz2iWU0AQ6tLz3KMOU1.jpg
+544,544,837335,La Chimera,it,"Italy, France, Switzerland, Turkey","Drama, Fantasy, Comedy",131,2023-10-12,482,7.304,0,"Tempesta, RAI Cinema, Ad Vitam Production, Amka Films, ARTE France Cinéma, RSI, TRT Sinema",/lDaUha09CumsoSAt9MIRbS9WBNH.jpg
+545,545,1137350,The Phoenician Scheme,en,"United States of America, Germany","Adventure, Comedy",102,2025-05-23,483,6.741,30000000,"Indian Paintbrush, American Empirical Pictures, Studio Babelsberg",/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg
+546,546,16642,Days of Heaven,en,United States of America,"Drama, Romance",94,1978-09-13,1079,7.502,3000000,Paramount Pictures,/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg
+547,547,1626,Vivre Sa Vie,fr,France,Drama,84,1962-09-20,670,7.7,64000,"Pathé Consortium Cinéma, Les Films de la Pléiade",/A0BjScjASfMFgyGI5sU0CwfKh3l.jpg
+548,548,110650,Outer Space,de,Austria,Horror,11,1999-01-01,124,6.4,0,sixpackfilm,/A72tOxS7cvdNwNqIw0uN4ElIeQ6.jpg
+549,549,144156,Dream Work,de,Austria,Mystery,10,2001-03-17,47,6.7,0,,/49dCtaDNZTku1D2QaNOoYVSJ1HL.jpg
+550,550,172673,Instructions for a Light and Sound Machine,xx,Austria,,16,2006-01-01,28,5.9,0,,/mE6yB3bZcPpgC0E9pMJKWM9CevM.jpg
+551,551,838152,Train Again,de,Austria,Documentary,20,2021-07-13,13,6.0,0,,/lPDnghlYepaui4TMRXiiB7mLXZA.jpg
+552,552,258480,Carol,en,"United Kingdom, United States of America","Romance, Drama",118,2015-11-20,3805,7.498,11800000,"Killer Films, Number 9 Films, Film4 Productions",/cJeled7EyPdur6TnCA5GYg0UVna.jpg
+553,553,17295,The Battle of Algiers,it,"Italy, Algeria","Drama, War, History",121,1966-09-08,823,7.9,800000,"Igor Film, Casbah Film",/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg
+554,554,911430,F1,en,United States of America,"Action, Drama",156,2025-06-25,1323,7.737,250000000,"Plan B Entertainment, Jerry Bruckheimer Films, Dawn Apollo Films, Apple Studios, Monolith Pictures",/9PXZIUsSDh4alB80jheWX4fhZmy.jpg
+555,555,1135609,A Short Story,en,India,,3,2022-12-06,0,0.0,0,,/thKqKfr38zpDNKgHRz1LxBt1euG.jpg
+556,556,323666,Living Still Life,fr,"Belgium, France, Germany",Science Fiction,16,2014-07-02,25,6.36,0,,/4eFKqwuZUcjfTbTWszz2xpwIsRL.jpg
+557,557,33247,The Living End,en,United States of America,"Crime, Drama, Romance",85,1992-08-21,77,6.7,20000,"Desperate Pictures, Strand Releasing",/sZ7VBPlZUIWs4aUC3nMBxbKL5PM.jpg
+558,558,13552,The Doom Generation,en,"France, United States of America","Comedy, Crime, Drama",83,1995-10-20,284,6.5,800000,"Blurco, The Teen Angst Movie Company, Desperate Pictures, Why Not Productions, UGC",/f2qIJm1bWqTycNUZMVxLBW1tN1w.jpg
+559,559,1811,Nowhere,en,"France, United States of America","Comedy, Drama, Science Fiction",83,1997-05-09,186,6.8,0,"Desperate Pictures, Why Not Productions, Blurco",/9CaVnvBRbzsM7mcJoIMncpHSBBN.jpg
+560,560,3009,The Trial,en,"France, Germany, Italy","Crime, Drama, Mystery",119,1962-08-25,523,7.431,1300000,"Hisa-Film, Paris-Europa Productions, Finanziaria Cinematografica Italiana (FICIT)",/2o1oe54a4doiwB4uJq9Kx1RHal0.jpg
+561,561,33560,Totally F***ed Up,en,United States of America,"Comedy, Drama",79,1994-08-19,103,6.602,0,"Blurco, Desperate Pictures, Muscle + Hate Studios",/nWC3bUnQEMU5DDDNxpG4VYMuu6B.jpg
+562,562,24106,The Black Cat,en,United States of America,Horror,65,1934-05-07,288,6.7,95745,Universal Pictures,/QTH3dkeDGTBRBmsY0A7STpsNN4.jpg
+563,563,122089,Something in the Air,fr,France,"Romance, Drama",122,2012-11-14,90,6.011,6800000,"MK2 Films, Vortex Sutra, France 3 Cinéma",/lNK5WkNlTyi6FbHMaCYYBCoKL88.jpg
+564,564,1924,Superman,en,"United Kingdom, United States of America","Science Fiction, Action, Adventure",144,1978-12-14,4040,7.2,55000000,"Dovemead Films, Alexander and Ilya Salkind Productions, International Film Production",/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg
+565,565,624479,Superman II: The Richard Donner Cut,en,"United Kingdom, United States of America","Science Fiction, Action, Adventure",116,2006-11-02,356,7.4,54000000,"Warner Bros. Pictures, DC, Dovemead Films",/dkLplIwss7Jleh82NawyGyFNMgJ.jpg
+566,566,1061474,Superman,en,United States of America,"Science Fiction, Adventure, Action",130,2025-07-09,2518,7.564,225000000,"DC Studios, Troll Court Entertainment, The Safran Company, Domain Entertainment",/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg
+567,567,42172,Hardcore,en,United States of America,"Mystery, Drama, Crime",108,1979-02-09,288,6.7,0,"A-Team, Columbia Pictures",/g6m9xBTAzxXVhdJ624s9BLK9o6.jpg
+568,568,279,Amadeus,en,United States of America,"History, Music, Drama",160,1984-09-19,4466,8.024,18000000,The Saul Zaentz Company,/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg
+569,569,600,Full Metal Jacket,en,"United Kingdom, United States of America","Drama, War",117,1987-06-26,10928,8.123,30000000,"Natant, Stanley Kubrick Productions, Warner Bros. Pictures",/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg
+570,570,1923,Twin Peaks: Fire Walk with Me,en,United States of America,"Drama, Mystery, Horror",135,1992-06-03,2069,7.386,10000000,"CiBy Pictures, Twin Peaks Productions",/rol5H6loAojd6tH2VXQYEXzGQk1.jpg
+571,571,124611,Time to Love,tr,Turkey,"Drama, Romance",89,1965-10-09,92,7.6,0,Troya Film,/iNzracgOnjF6dUoTNkfbxlzHdXv.jpg
+572,572,8422,Rocco and His Brothers,it,"France, Italy","Drama, Romance",178,1960-10-07,623,8.016,0,"Titanus, Les Films Marceau",/pngL8AraChIDOiWnKF2o3S9kJzJ.jpg
+573,573,147,The 400 Blows,fr,France,Drama,99,1959-06-03,2222,8.023,0,"Les Films du Carrosse, Sédif Productions",/12PuU23kkDLvTd0nb8hMlE3oShB.jpg
+574,574,11621,Porco Rosso,ja,Japan,"Family, Comedy, Animation, Adventure",93,1992-07-18,3479,7.799,9200000,"Studio Ghibli, Nibariki, Mitsubishi, Nippon Television Network Corporation, Tokuma Shoten",/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg
+575,575,336807,Fatima,fr,"France, Canada","Drama, Family",79,2015-10-07,125,6.164,0,"Possibles Média, Istiqlal Films, ARTE France Cinéma",/btzQZUQv2jsJ3M8EDyaSsM7YlBx.jpg
+576,576,10728,Faust,de,Germany,"Fantasy, Drama, Horror",116,1926-10-13,372,7.903,0,"UFA, Metro-Goldwyn-Mayer",/rN703hMFxmkZfyEzsXvFtuFhkXE.jpg
+577,577,593643,The Menu,en,United States of America,"Comedy, Horror, Thriller",107,2022-11-17,5509,7.175,35000000,"Hyperobject Industries, Searchlight Pictures, Gary Sanchez Productions, TSG Entertainment",/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg
+578,578,648878,Eddington,en,"United States of America, Finland","Western, Comedy, Crime",149,2025-07-16,184,6.495,25000000,"A24, Square Peg, 828 Productions, IPR.VC, Access Entertainment",/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg
+579,579,16093,Carnival of Souls,en,United States of America,"Horror, Mystery, Fantasy",78,1962-11-02,504,6.9,30000,"Harcourt Productions, Centron Corporation",/9ddPGH7kMe81xznwIKCt17VFUPi.jpg
+580,580,10831,The Draughtsman's Contract,en,United Kingdom,"History, Mystery, Comedy",108,1982-11-12,244,7.1,370800,"BFI, Film4 Productions",/ljeTWR2kowGXijMc8LMuy72ULM3.jpg
+581,581,33356,The Falls,en,United Kingdom,Comedy,195,1980-11-19,35,7.2,0,BFI,/ioEVXwJTUTwu9gtEUoGC1r8IZn9.jpg
+582,582,249010,H Is for House,en,United Kingdom,Drama,10,1976-01-01,22,6.3,0,BFI,/fm60RxcPH8U4jtWiEbnzuTyj73Q.jpg
+583,583,164626,A Walk Through H,en,United Kingdom,Comedy,41,1978-01-01,17,7.4,0,BFI,/jsGfj75NJfXkBvivQlp4zA21TYf.jpg
+584,584,95243,Vertical Features Remake,en,United Kingdom,"Documentary, Comedy",45,1978-12-01,20,7.2,0,Arts Council of Great Britain,/2IB1sA01lyCQCYR3i4hXpL1jXNK.jpg
+585,585,33078,A Zed & Two Noughts,en,"Netherlands, United Kingdom","Comedy, Drama",115,1985-10-04,163,7.04,0,"BFI, Artificial Eye, Allarts Enterprises, Film4 Productions, VPRO",/55eiU0JNfNRqWbpabsf6NukntI2.jpg
+586,586,5544,Hiroshima Mon Amour,fr,"France, Japan","Drama, History, Romance",92,1959-06-10,856,7.7,0,"Argos films, Como Films, Daiei Film, Pathé Overseas",/vjP7eX9c0xUD5i5dTRaP3NYC8iN.jpg
+587,587,17238,The Belly of an Architect,en,"Italy, United Kingdom",Drama,118,1987-09-23,123,6.8,0,"Callender Company, Mondial, Tangram Film, British Screen, Hemdale Group, SACIS, Film4 Productions",/gjS08AHtZ7b44WC2NCuYWpJRoCM.jpg
+588,588,838,American Graffiti,en,United States of America,"Comedy, Drama",110,1973-08-11,1505,7.039,777000,"Lucasfilm Ltd., The Coppola Company",/1tjLivPad2PX8FAzWko7FPIb8d2.jpg
+589,589,32015,I Am Cuba,es,"Cuba, Soviet Union",Drama,141,1964-10-26,229,7.9,0,"ICAIC, Mosfilm",/qQxv27Lae6Uph7iOEzyZ5BOZxJh.jpg
+590,590,27362,Drowning by Numbers,en,"Netherlands, United Kingdom","Comedy, Crime, Drama",119,1988-09-10,178,7.1,0,"Stimuleringsfonds Nederlandse Culturele Omroepproducties, Elsevier-Vendex Film Beheer, Allarts Production, Film4 Productions, VPRO",/bOqbSwGyfLo0PeaTKIwHi7EqCSe.jpg
+591,591,422,8½,it,"Italy, France",Drama,139,1963-02-14,2404,8.134,0,"Cineriz, Francinex",/ja0uRnwFwnVFJlNMYL10orpjWtq.jpg
+592,592,975521,Earth,bg,Bulgaria,Drama,53,1930-05-14,0,0.0,0,,/zALTikeMEHSPDB2acpAcrxeUN7X.jpg
+593,593,302075,Le Dormeur,xx,,,9,1974-01-01,1,8.0,0,Les Films de la Commune,/tyanL6OWwdS4dBmcN0Q3s6kaWc8.jpg
+594,594,52679,The Last Command,en,United States of America,"Drama, History, War, Romance",88,1928-01-21,85,7.3,0,Paramount Pictures,/uKb5bFIwEzDtT3km99lqQBGNFCx.jpg
